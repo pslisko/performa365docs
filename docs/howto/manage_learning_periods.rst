@@ -31,8 +31,8 @@ Edit a Learning Period
 - System will display message: "Learning period is being updated. You will be notified when the process is completed."
 - If the action was successful, the system will display message: "Learning period (Name) has been successfully updated."
 
-Set a Learning Period as default
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Set a Default Learning Period
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Go to *Manage* > *Learning periods*
 - In the list of learning periods select checkbox icon in the *Actions* column of the period you wish to set as default
 - System will display message: "Setting learning period as default is in progress. You will be notified when the process is completed."
