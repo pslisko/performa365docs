@@ -1,9 +1,15 @@
 Manage Learning Periods
 =======================
 
-...
+About Learning Periods
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Learnig period is a most meaningful time period in which an organization considers learning activities. For a school, this might be a school year, and for a business organization, it will tipically be a fiscal year or a quarter. 
 
-How to add learning period
+Learning periods are mostly used in reports and overviews. For example, a report will show all learner's enrolled courses and scores for a selected learning period. 
+
+NOTE: You must define at least one learning period in your tenant. 
+
+Add a Learning Period
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - In the *Education process management* section on the *Manage* page click *Learning periods* tile
 - *Learning periods* form is shown on top of the page containing list of all available learning periods and action button *Add*
@@ -15,7 +21,7 @@ How to add learning period
 - System will display message: "Learning period is being added. You will be notified when the process is completed."
 - If the action was successful, the system will display message: "Learning period (Name) has been successfully added."
 
-How to edit learning period
+Edit a Learning Period
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Go to *Manage* > *Learning periods*
@@ -25,7 +31,7 @@ How to edit learning period
 - System will display message: "Learning period is being updated. You will be notified when the process is completed."
 - If the action was successful, the system will display message: "Learning period (Name) has been successfully updated."
 
-How to set learning period as default
+Set a Learning Period as default
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Go to *Manage* > *Learning periods*
