@@ -1,5 +1,6 @@
 Manage Learning Periods
 =======================
+Application roles needed to manage learning periods: Education Process Admin
 
 About Learning Periods
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -7,7 +8,7 @@ Learnig period is a most meaningful time period in which an organization conside
 
 Learning periods are mostly used in reports and overviews. For example, a report will show all learner's enrolled courses and scores for a selected learning period. 
 
-NOTE: You must define at least one learning period in your tenant. 
+NOTE: You must have at least one learning period in your tenant. 
 
 Add a Learning Period
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -23,7 +24,6 @@ Add a Learning Period
 
 Edit a Learning Period
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Go to *Manage* > *Learning periods*
 - In the list of learning periods select edit icon in the *Actions* column of the period you wish to edit
 - *Edit Learning Period* form opens below 
@@ -33,7 +33,6 @@ Edit a Learning Period
 
 Set a Learning Period as default
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Go to *Manage* > *Learning periods*
 - In the list of learning periods select checkbox icon in the *Actions* column of the period you wish to set as default
 - System will display message: "Setting learning period as default is in progress. You will be notified when the process is completed."
