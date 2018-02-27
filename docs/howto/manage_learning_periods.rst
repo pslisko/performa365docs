@@ -4,7 +4,7 @@ Application roles needed to manage learning periods: Education Process Admin
 
 About Learning Periods
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Learnig period is a most meaningful time period in which an organization considers learning activities. For a school, this might be a school year, and for a business organization, it will tipically be a fiscal year or a quarter. 
+Learnig period represents a meaningful time period in which an organization considers learning activities. For a school, this might be a school year, and for a business organization, it will tipically be a fiscal year or a quarter. 
 
 Learning periods are mostly used in reports and overviews. For example, a report will show all learner's enrolled courses and scores for a selected learning period. 
 
