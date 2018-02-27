@@ -4,7 +4,7 @@ Welcome to Performa365
 Who we are...
 
 .. image:: tenant-tablica.png
-   :ref:`requirements`
+   :target: requirements
 
 :ref:`Requirements <requirements>`
 
