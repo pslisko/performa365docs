@@ -3,8 +3,7 @@ Welcome to Performa365
 
 Who we are...
 
-
-.. image:: tenant-tablica.png
+ref
    :ref:`Requirements`
    
 
