@@ -3,6 +3,9 @@ Welcome to Performa365
 
 Who we are...
 
+.. image:: tenant-tablica.png
+   :ref:`requirements`
+
 :ref:`Requirements <requirements>`
 
 .. toctree::
