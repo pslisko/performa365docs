@@ -3,10 +3,6 @@ Welcome to Performa365
 
 Who we are...
 
-
-
-
-
 .. toctree::
    :maxdepth: 2
    :hidden:
