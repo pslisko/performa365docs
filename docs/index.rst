@@ -3,7 +3,7 @@ Welcome to Performa365
 
 Who we are...
 
-:ref:`Preferences <preferences>`
+:ref:`Requirements <requirements>`
 
 .. toctree::
    :maxdepth: 2
