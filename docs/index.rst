@@ -3,6 +3,8 @@ Welcome to Performa365
 
 Who we are...
 
+:ref:`Preferences <preferences>`
+
 .. toctree::
    :maxdepth: 2
    :hidden:
