@@ -8,7 +8,7 @@ Learnig period represents a meaningful time period in which an organization cons
 
 Learning periods are mostly used in reports and overviews. For example, a report will show all learner's enrolled courses and scores for a selected learning period. 
 
-NOTE: You must have at least one learning period in your tenant. 
+.. note:: You must have at least one learning period in your tenant. 
 
 Add a Learning Period
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
