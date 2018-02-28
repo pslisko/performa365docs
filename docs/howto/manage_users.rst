@@ -31,7 +31,7 @@ Update User's Data
 #. All fields are editable except *Id* and *E-mail* which are read-only.  
 #. Click *Save*.
 
-.. note:: ...
+.. note:: todo
    
 
 Delete a User
