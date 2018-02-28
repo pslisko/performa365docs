@@ -40,4 +40,4 @@ Delete Location
 #. Confirm window pops up.
 #. Click *Yes* to confirm the action.
 
- .. note:: You will not be able to delete locations with active schedules.
+.. note:: You will not be able to delete locations with active schedules.
