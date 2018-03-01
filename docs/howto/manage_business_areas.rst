@@ -1,7 +1,7 @@
 Manage Business Areas
 =====================
 
-Application roles needed to manage business areas: Education Process Admin
+Application roles needed to manage business areas: :ref:`Education Process Administrator <education_process_administrator>`
 
 About Business Areas
 ^^^^^^^^^^^^^^
