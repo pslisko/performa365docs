@@ -34,7 +34,7 @@ Edit Business Area
    
 #. Click *Save*.
 
-Delete a Business Area
+Delete Business Area
 ^^^^^^^^^^^^^^
 
 #. Go to *Manage* > *Business areas*.
