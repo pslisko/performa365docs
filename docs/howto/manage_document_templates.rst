@@ -25,4 +25,4 @@ Edit a Document Template
 #. You can download and check existing file or upload a new one.
 #. To upload, drop the file in drag-and-drop control or click the control to choose the file from your computer.
 #. *Save* button is enabled if the selected file is in correct format (.doc or .docx) and size (smaller than 10MB).
-#. Click *Save*
+#. Click *Save*.
