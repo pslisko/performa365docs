@@ -1,7 +1,7 @@
 Manage Users
 ============
 
-...
+Application roles needed to manage learning users: Tenant administrator
 
 View All Users
 ^^^^^^^^^^^^^^
