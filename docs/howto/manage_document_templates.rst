@@ -1,7 +1,7 @@
 Manage Document Templates
 =========================
 
-Application roles needed to manage document templates: Education Process Admin
+Application roles needed to manage document templates: :ref:`Education Process Administrator <education_process_administrator>`
 
 About Document Templates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
