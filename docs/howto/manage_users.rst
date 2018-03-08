@@ -1,7 +1,7 @@
 Manage Users
 ============
 
-Application roles needed to manage learning users: Tenant administrator
+Application roles needed to manage learning users: :ref:`Tenant Administrator <tenant_administrator>`
 
 View All Users
 ^^^^^^^^^^^^^^
