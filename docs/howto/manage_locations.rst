@@ -2,6 +2,7 @@ Manage Locations
 ================
 
 Application roles needed to manage locations: :ref:`Education Process Administrator <education_process_administrator>`
+
 About Locations
 ^^^^^^^^^^^^^^
 
