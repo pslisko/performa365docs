@@ -1,7 +1,7 @@
 View System Logs
 ================
 
-Application roles needed to view system logs: Tenant administrator
+Application roles needed to view system logs: :ref:`Tenant Administrator <tenant_administrator>`
 
 #. In the *System settings* section on the *Manage* page click *Logs* tile.
 #. System log records are displayed in table view. 
