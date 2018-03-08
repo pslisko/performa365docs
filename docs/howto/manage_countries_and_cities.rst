@@ -36,7 +36,7 @@ Add city
 #. **Add City** form opens below.
 #. Fill in the fields **Name** and **Postal code**. Choose "Country" from the drop-down menu.   
 #. **Save** button is enabled when all required fields are filled.
-#. Click **Save*
+#. Click **Save**.
 
 .. note:: To add a city you must have country added first.
 
