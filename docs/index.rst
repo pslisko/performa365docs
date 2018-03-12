@@ -29,15 +29,6 @@ Who we are...
    gettoknow/test_administrator_and_test_creator
    gettoknow/learner
    
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: MANAGE ACTIVITIES
-
-   manageactivities/generic_and_video
-   manageactivities/classroom_virtual
-   manageactivities/HTML5
-   manageactivities/survey
    
 .. toctree::
    :maxdepth: 2
