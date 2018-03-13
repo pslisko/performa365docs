@@ -3,6 +3,14 @@ Manage Users
 
 Application roles needed to manage learning users: :ref:`Tenant Administrator <tenant_administrator>`
 
+Authentication and Authorization
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TBD Marko - opisati tipove authN i AthZ: AAD, ADFS
+
+User management features described below depend on the selected identity provider. Identity provider is selected in the tenant configuration (TBD: link).
+
+
 View All Users
 ^^^^^^^^^^^^^^
 
@@ -14,6 +22,8 @@ View All Users
 
 Create a New User
 ^^^^^^^^^^^^^^
+
+.. note:: This action is only available for ADFS identity provider.
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** form is shown on top of the page containing list of all system users and action button **Add**.
