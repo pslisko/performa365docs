@@ -6,7 +6,7 @@ Application roles needed to manage learning users: :ref:`Tenant Administrator <t
 Authentication and Authorization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TBD Marko - opisati tipove authN i AthZ: AAD, ADFS
+TODO Marko - opisati tipove authN i AthZ: AAD, ADFS
 
 User management features described below depend on the selected identity provider. Identity provider is selected in the tenant configuration (TBD: link).
 
@@ -15,10 +15,10 @@ View All Users
 ^^^^^^^^^^^^^^
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
-#. **Users** form is shown on top of the page containing list of all system users and action button **Add**.
-#. In the **Actions** column there are **Details** and **Edit** icon for each user.
-#. Click **Details** icon to view user details.
-#. **Details** form is displayed below containing information about user's external identifier, application roles assigned to user, first import date and last modified date.
+#. **Users** page is shown containing a list of all users and action button **Add**.
+#. In the **Actions** column there are **Details** and **Edit** icons for each user.
+#. Click **Details** icon to view a user's details.
+#. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
 
 Create a New User
 ^^^^^^^^^^^^^^
@@ -26,11 +26,11 @@ Create a New User
 .. note:: This action is only available for ADFS identity provider.
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
-#. **Users** form is shown on top of the page containing list of all system users and action button **Add**.
+#. **Users** page is shown containing a list of all users and action button **Add**.
 #. Click **Add** button.
 #. **Add user** form opens below.
 
-todo
+TODO Suncica: ostali koraci
 
 Update User's Data
 ^^^^^^^^^^^^^^
@@ -44,7 +44,11 @@ Update User's Data
 .. note:: todo
    
 
-Delete a User
-^^^^^^^^^^^^^^
-?
-...
+Deactive a User
+^^^^^^^^^^^^^^^^^
+
+.. note:: This action is only available for ADFS identity provider.
+
+Deactivation disables a user from logging or performing any activity in the system. 
+
+TODO Suncica: Koraci za promjenu statusa.
