@@ -1,7 +1,7 @@
 Catalog
 =======
 
-Application roles needed to view catalog: :ref:`Education Process Administrator <education_process_administrator>`
+All application roles can view and browse the catalog but some functionalities are enabl
 
 About
 ******
