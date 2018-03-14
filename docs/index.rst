@@ -44,3 +44,4 @@ Who we are...
    howto/manage_business_areas
    howto/manage_document_templates
    howto/manage_countries_and_cities
+   howto/use_the_catalog
