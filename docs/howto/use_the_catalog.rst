@@ -6,7 +6,7 @@ All application roles can view and browse the catalog but some functionalities a
 About
 ******
 
-.. image:: courses-en-numbers.png
+.. image:: catalog-arrows-numbers.png
    :align: center
 
 **Catalog** page allowes viewing all types of education currently available in the system. There are two types of content: courses and exams which are both listed in the submenu of the **Catalog** page. 
