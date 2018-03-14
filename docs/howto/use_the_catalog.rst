@@ -35,10 +35,10 @@ Each course tile contains name, image and learner status displayed by the progre
 
 Only catalog administrators are able to create new courses by clicking on action button *New course*. 
 
-To learn more go to How to > Working With Courses.
+To learn more go to How to > Work With Courses.
 
 
 Exams
 **********
 
-To learn more about exams, go to How to > Working With Exams.
+To learn more about exams, go to How to > Work With Exams.
