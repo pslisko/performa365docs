@@ -1,18 +1,21 @@
 Catalog
 =======
 
-All application roles can view and browse the catalog but some functionalities are enabl
+All application roles can view and browse the catalog but some functionalities are only enabled to users with a specific role.
 
 About
 ******
 
-**Catalog** page allowes viewing all types of education currently available in the system. There are three types of content: courses, progams and exams which are listed in the submenu of the **Catalog** page.
+.. image:: courses-en-numbers.png
+   :align: center
+
+**Catalog** page allowes viewing all types of education currently available in the system. There are two types of content: courses and exams which are both listed in the submenu of the **Catalog** page. 
 
 Courses
 **********
 
 When selected from the submenu, the **Courses** page is displayed to the user showing all active public courses (?). (kako dalje ovisno o roli?)
 
-Action button *New course* is shown in the ribbon below submenu allowing (roles?) to create new course(link na create course). 
+Action button *New course* is only visible to catalog in the ribbon below submenu allowing (roles?) to create new course(link na create course). 
 
 Search and sorting functionalities are available by clicking appropriate icons on the right side of the ribbon. 
