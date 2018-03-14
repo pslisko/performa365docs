@@ -1,5 +1,5 @@
-Catalog
-=======
+Use the Catalog
+================
 
 All application roles can view and browse the catalog but some functionalities are only enabled to users with a specific role.
 
