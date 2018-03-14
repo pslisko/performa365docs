@@ -16,7 +16,7 @@ The **Ribbon** below the catalog menu contains action button *New course* (2) on
 Courses
 **********
 
-When selected from the submenu, the **Courses** page is displayed to the user showing courses depending on user's application role and courses' visibility property. There are three types of visibility:
+When selected from the submenu, the **Courses** page is displayed to the user showing courses depending on user's application role and course's visibility property. There are three types of visibility:
 
 * **Public and self-enroll** - all users can see the course in the catalog and self-enroll to the course.
 * **View only** - all users can see the course in the catalog but cannot self-enroll to the course.
@@ -26,7 +26,7 @@ Each course tile contains name, image and learner status displayed by the progre
 
 * Progress bar can be blue (5) which indicates that learner is currenty enrolled to the course and is not behind schedule. There is no due date for self-enrollment. 
 * Red progress bar (6) indicates that learner enrolled to the course is behind schedule. This does not apply to self-enrolled courses.
-* Green progress bar (7) indicates that learner has completed the course.
+* Green progress bar (7) indicates that the learner has completed the course.
 
 
 
