@@ -27,9 +27,7 @@ Each course tile contains name, image and learner status displayed by the progre
 * Red progress bar (6) indicates that learner enrolled to the course is behind schedule. This does not apply to self-enrolled courses.
 * Green progress bar (7) indicates that the learner has completed the course.
 
-Creating a New Course
-**********************
-**********************
+**Creating a New Course**
 
 Only catalog administrators are able to create new courses by clicking on action button *New course*. 
 
@@ -37,7 +35,6 @@ To learn more go to How to > Working With Courses.
 
 
 Exams
-**********************
-**********************
+**********
 
 To learn more about exams, go to How to > Working With Exams.
