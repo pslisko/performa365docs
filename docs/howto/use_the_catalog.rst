@@ -9,8 +9,7 @@ About
 .. image:: catalog-arrows-numbers.png
    :align: center
 
-**Catalog** page allows viewing all types of educations currently available in the system. There are two types of content: *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators.
-
+**Catalog** page allows viewing all types of educations currently available in the system. There are two types of content: *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators. 
 The **Ribbon** below the catalog menu contains action button *New course* (2) only visible to catalog administrators. The right side of the ribbon has icons for sorting and displaying the results as well as the magnifying glass icon (3) which opens and closes panel with search and filtering options. *Show deactivated educations* checkbox (4) is only visible to catalog administrator.
 
 Courses
@@ -28,5 +27,17 @@ Each course tile contains name, image and learner status displayed by the progre
 * Red progress bar (6) indicates that learner enrolled to the course is behind schedule. This does not apply to self-enrolled courses.
 * Green progress bar (7) indicates that the learner has completed the course.
 
+Creating a New Course
+**********************
+**********************
+
+Only catalog administrators are able to create new courses by clicking on action button *New course*. 
+
+To learn more go to How to > Working With Courses.
 
 
+Exams
+**********************
+**********************
+
+To learn more about exams, go to How to > Working With Exams.
