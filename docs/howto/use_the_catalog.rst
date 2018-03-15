@@ -17,6 +17,7 @@ About
 
 The **Ribbon** below the catalog menu contains action button *New course* (2) only visible to catalog administrators. The right side of the ribbon has icons for sorting and displaying the results as well as the magnifying glass icon (3) which opens and closes the panel with search and filtering options. *Show deactivated educations* checkbox (4) on this panel is only visible to catalog administrator. 
 
+.. _courses:
 
 Courses
 **********
