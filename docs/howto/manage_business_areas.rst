@@ -1,3 +1,5 @@
+.. _manage_business_areas:
+
 Manage Business Areas
 =====================
 
