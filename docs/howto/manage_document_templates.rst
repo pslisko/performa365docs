@@ -1,3 +1,5 @@
+.. _manage_document_templates:
+
 Manage Document Templates
 =========================
 
