@@ -1,10 +1,6 @@
 Work With Courses
 ======================
 
-Working With Courses as an Administrator
-*********************************************
-**********************************************
-
 
 Adding a New Course
 ********************
