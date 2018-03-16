@@ -55,3 +55,7 @@ Test Administrators can delete all exams, Test Creators can only delete an exam 
 #. After successfully deleting the exam, you will be redirected to the **Exams** page.
 
 .. note:: An exam which is a part of a course activity cannot be deleted. 
+
+Work with Question Groups
+***************************
+
