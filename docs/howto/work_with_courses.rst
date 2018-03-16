@@ -45,7 +45,9 @@ Editing a Course
 *****************
 
 Application roles needed to edit a course: 
+
 * :ref:`Catalog Administrators <catalog_administrator>`
+
 * :ref:`Education Owner <education_owner>`
 
 #. Select the course from the **Catalog** page. The course can be found using search and filtering options on the **Catalog** page.
