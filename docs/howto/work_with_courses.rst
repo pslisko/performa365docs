@@ -2,7 +2,7 @@ Work With Courses
 ======================
 
 
-Adding a New Course
+Add a New Course
 ********************
 
 Application roles needed to add a new course: :ref:`Catalog Administrators <catalog_administrator>`.
@@ -38,10 +38,9 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. If **All activities completed** is course's success criteria, this toggle button should be set to *ON*. 
 #. **All activities successfully completed** can be set to either *ON* or *OFF*. If **All activities completed** is set to *OFF*, this also will be set to *OFF*.
 #. **Scored points percentage** can be chosen as success criteria by setting it to *ON*. In that case, a new control appears for entering the required points percentage.
+#. Click **Finish**.
 
-Clicking the **Finish** action button after completing these steps will create a new course.
-
-Editing a Course
+Edit a Course
 *****************
 
 Application roles needed to edit a course: 
@@ -50,20 +49,24 @@ Application roles needed to edit a course:
 
 * :ref:`Education Owner <education_owner>`
 
-#. Select the course from the **Catalog** page. The course can be found using search and filtering options on the **Catalog** page.
+#. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to edit.
 #. You will be redirected to the course page. 
 #. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog administrators, Education owners and users who are instructors in at least one course schedule.
 #. Click on **Manage** menu item to open a dropdown menu. 
 #. Choose **Edit course**
 #. A three-step wizard opens, identical to the one for adding a new course. 
+#. Complete the wizard and click **Finish**.
 
 .. note:: When editing a course, Catalog Adminitrator or Education owner can change almost anything they wish, but changes that concern learners will only be applied to those enrolled after the update. Also, a course cannot be deactivated if there are learners enrolled to it.
 
 
-Deleting a Course
+Delete a Course
 ******************
 
+#. Go to **Catalog** > **Courses**. 
+#. Click the tile of the course you wish to delete.
+#. You will be redirected to the course page. 
 #. Choose **Delete course** from the **Manage** dropdown menu in course's submenu.
 #. A dialog window opens asking the user to confirm the action. 
 #. Click *Yes*.
