@@ -9,9 +9,6 @@ Application roles needed to manage business areas:
 About
 ******
 
-Exams Overview
-**************
-
 Test Administrators and Test Creators can view exams on the **Catalog** page by clicking on the action button **Exams** in the submenu. This button is only visible to these application roles. Test Administrators can see all available exams, Test Creators can only see exams if they have ownership to them.
 
 ..
