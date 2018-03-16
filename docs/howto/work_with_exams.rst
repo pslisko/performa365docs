@@ -31,6 +31,7 @@ Edit an Exam
 **************
 
 Test Administrators can edit all exams, Test Creators can only edit an exam if they have ownership to the exam.
+
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
 #. List of exams is displayed on the page. Each exam is represented by the tile with the menu icon in the upper right corner. Clicking on this icon opens a dropdown menu.
@@ -44,6 +45,7 @@ Delete an Exam
 **************
 
 Test Administrators can delete all exams, Test Creators can only delete an exam if they have ownership to the exam.
+
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
 #. List of exams is displayed on the page. Each exam is represented by the tile with the menu icon in the upper right corner. Clicking on this icon opens a dropdown menu.
