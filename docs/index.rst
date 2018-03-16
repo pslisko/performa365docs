@@ -46,3 +46,4 @@ Who we are...
    howto/manage_countries_and_cities
    howto/use_the_catalog
    howto/work_with_courses
+   howto/work_with_exams
