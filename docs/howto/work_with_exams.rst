@@ -84,3 +84,44 @@ Test Administrators can add question groups to all exams, Test Creators can only
 #. You can add attachments to each question by clicking **Add attachments** action button. Attached files can be up to 10MB in size. 
 #. To assign points for correct answer and/or negative points for incorrect answer, enter the value by clicking numeric up-and-down control or typing it into the box. Please note that you must also enter "-" before the number for negative points if you enter the value manually.
 #. Choose **Question Type** from the drop-down menu. There are three types you can choose from: **Single choice**, **Multiple choice** and **Free text**.
+#. If you choose **Single choice**, input box opens for entering question answers. Single choice questions must have at least one answer with radio button selected. All answers must have values. To add more answers click **Add answer**.
+#. If you choose **Multiple choice**, input box opens for entering question answers. Multiple choice questions must have at least one answer with checkbox selected. All answers must have values. To add more answers click **Add answer**.
+#. If you choose **Free text**, input box opens for entering question answers. Free text questions must have at least one answer with some text as value. To add more answers click **Add answer**.
+#. Add as many questions as you like by clicking **Add question** at the bottom of the wizard.
+#. Each question has **Enabled** checkbox in the upper left corner. This checkbox is selected by default. Unchecking it will hide the question and it won't be displayed when creating exam activity with this question group.
+#. To delete individual questions click the trash bin icon in the upper right corner.
+#. You can change the order of your questions by clicking up or down arrows in the upper right corner.
+#. When you are done adding questions, click **Finish**. New question group will be added to exam's question groups.
+
+Edit a Question Group
+*********************
+
+Test Administrators can edit question groups of all exams, Test Creators can only edit question groups of an exam if they have ownership to the exam.
+
+#. Click on **Catalog** in the main navigation bar. 
+#. On the **Catalog** page choose **Exams (admin)** in the submenu.
+#. List of exams is displayed on the page. Each exam is represented by the tile with the menu icon in the upper right corner. Click on this icon to open a dropdown menu.
+#. Choose *Details* from the dropdown menu to edit exam's question groups.
+#. **Exams > Question Groups** page opens. This page has all available question groups displayed as a list of tiles. Each tile has menu icon in the upper right corner. Find the question group you wish to edit and click on it's menu icon to open a dropdown menu.
+#. Choose *Edit* from the dropdown menu.
+#. **Edit exam group** wizard opens. This wizard is identical to the one for adding new question groups.
+#. You can change general information in the first step as well as questions within this question group in the second step.
+#. When you are done, click **Finish**. The question group will be updated.
+
+.. note:: Change of settings and questions within question group does not affect previously created exams.
+
+
+Delete a Question Group
+*********************
+
+Test Administrators can edit question groups of all exams, Test Creators can only edit question groups of an exam if they have ownership to the exam.
+
+#. Click on **Catalog** in the main navigation bar. 
+#. On the **Catalog** page choose **Exams (admin)** in the submenu.
+#. List of exams is displayed on the page. Each exam is represented by the tile with the menu icon in the upper right corner. Click on this icon to open a dropdown menu.
+#. Choose *Details* from the dropdown menu of the exam you wish to edit question groups.
+#. **Exams > Question Groups** page opens. This page has all available question groups displayed as a list of tiles. Each tile has menu icon in the upper right corner. Click on this icon to open a dropdown menu.
+#. Choose *Edit* from the dropdown menu.
+#. **Edit exam group** wizard opens. This wizard is identical to the one for adding new question groups.
+#. You can change general information in the first step as well as questions for this group in the second step.
+#. When you are done, click **Finish**. The question group will be updated.
