@@ -19,7 +19,7 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. **Business areas** is required. More than one business area can be selected when creating new course. To be able to choose business areas from the list, they must first be created by :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Business Areas <manage_business_areas>`.
 #. **Primary delivery model** describes how the course is executed. It is a required, single choice field. The catalog administrator must choose between three options: *classroom*, *virtual (e-learning)* and *blended learning*.
 #. **Languages** are optional and more than one can be chosen from the drop-down menu.
-#. **Owners** are selected by typing at least 3 characters in the text field to start the search. Search returns display name and e-mail of the users. More than one user can be selected from this list as course owner. This field is required.
+#. **Owners** are selected by typing at least 3 characters in the text field to start the search. Search returns display name and e-mail of users. More than one user can be selected from this list as a course owner. This field is required.
 #. **Visibility** is a required field which determines how the course is displayed in the catalog. To learn more visit :ref:`How to > Use the catalog <courses>`.
 #. **Title image** is displayed on the course page and in the course tile on the catalog page. It is optional and can be up to 10MB in size.
 #. **Status** can be set to either *ON* or *OFF*. Courses with status set to *ON* are active and present in the course catalog, setting the status to *OFF* will deactivate the course and it will be visible in the **Catalog** only to Catalog Administrators. A course cannot be deactivated if there are learners enrolled to it.
@@ -27,7 +27,7 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 **Step two**
 
 #. **Discussion group** field is optional. It can be filled with the feed ID of the dedicated yammer group.
-#. **Course owners can enroll learners** indicates that learners can be enrolled to the course by both Course owners and Enrollment administrators (if set to *ON*) or only by Enrollment administrators (if set to *OFF*). It is set to *ON* by default.
+#. **Course owners can enroll learners** indicates that learners can be enrolled to the course by both Course owners and Enrollment administrators (if set to *ON*) or only by Enrollment administrators (if set to *OFF*). This toggle button is set to *ON* by default.
 #. When **Sequential activities** is set to *ON* learners must take learning activities in the predefined order. Setting it to *OFF* will allow learners to take learning activities in the arbitrary order.
 #. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or education owner* (learners or education owner confirm course completion).
 #. If **Certificate generation** is set to *ON*, learner will be given a certificate after the successful course completion. If certificates of completion are not given to learners, it should be set to *OFF*. 
@@ -54,7 +54,7 @@ Application roles needed to edit a course:
 #. You will be redirected to the course page. 
 #. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog administrators, Education owners and users who are instructors in at least one course schedule.
 #. Click on **Manage** menu item to open a dropdown menu. 
-#. Choose **Edit course**
+#. Choose **Edit course** from the dropdown menu.
 #. A three-step wizard opens, identical to the one for adding a new course. 
 #. Complete the wizard and click **Finish**.
 
