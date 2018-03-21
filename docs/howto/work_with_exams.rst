@@ -56,6 +56,7 @@ Test Administrators can delete all exams, Test Creators can only delete an exam 
 
 .. note:: An exam which is a part of a course activity cannot be deleted. 
 
+
 Work with Question Groups
 ***************************
 ***************************
@@ -125,3 +126,5 @@ Test Administrators can delete question groups of all exams, Test Creators can o
 #. **Edit exam group** wizard opens. This wizard is identical to the one for adding new question groups.
 #. You can change general information in the first step as well as questions for this group in the second step.
 #. When you are done, click **Finish**. The question group will be updated.
+
+.. note:: A question group which is a used in an active course activity cannot be deleted. 
