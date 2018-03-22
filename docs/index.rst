@@ -31,7 +31,7 @@ Who we are...
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: HOW TO
 
@@ -48,3 +48,5 @@ Who we are...
    howto/work_with_courses
    howto/work_with_exams
    howto/work_with_certificates
+   howto/manage_activities/generic_video
+   howto/manage_activities/survey
