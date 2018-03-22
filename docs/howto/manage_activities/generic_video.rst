@@ -72,8 +72,7 @@ Add Video Activity
 #. When creating video activity, you need to choose **Video** from the dropdown menu in the **Type** field.
 #. When all required fields are filled in, action button **Next** is enabled. 
 #. Click **Next** to continue on to the next step.
-#. In the second step enter **Total points** and **Video Url** for this activity. Start and Due dates are optional.
-(TODO office 365 video)
+#. In the second step enter **Total points** and **Video Url** for this activity. Start and Due dates are optional. (TODO office 365 video)
 #. Click **Next**.
 #. In the final step you will be notified how many learners will be added this activity. New activities will only be added to users who have not yet completed the course. 
 #. Click **Finish** to create the activity.
