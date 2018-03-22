@@ -25,10 +25,8 @@ Add a Survey
 #. When all required fields are filled in, action button **Next** is enabled. 
 #. Click **Next** to continue on to the next step.
 #. In the second step enter **Total points** for this activity. Start and Due dates are optional.
-#. In the **SharePoint survey** field choose the survey you wish to add from the drop-down menu. 
-Surveys already used in other activities within the same course cannot be added here and will not be shown in the list. 
-#. If the list is empty, it means there are no available surveys. You can try to refresh the list by clicking **Refresh survey list** below or add new survey by clicking on **Add new**.
-Clicking on this button will redirect you to SharePoint where you can create new survey. When you are done, refresh the survey list in the wizard and you will see your newly added survey. Click on it to select it from the list.
+#. In the **SharePoint survey** field choose the survey you wish to add from the drop-down menu. Surveys already used in other activities within the same course cannot be added here and will not be shown in the list.
+#. If the list is empty, it means there are no available surveys. You can try to refresh the list by clicking **Refresh survey list** below or add new survey by clicking on **Add new**. Clicking on this button will redirect you to SharePoint where you can create new survey. When you are done, refresh the survey list in the wizard and you will see your newly added survey. Click on it to select it from the list.
 #. Click **Next**.
 #. In the final step you will be notified how many learners will be added this activity. New activities will only be added to users who have not yet completed the course. 
 #. Click **Finish** to create the activity.
