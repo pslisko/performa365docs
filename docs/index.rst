@@ -49,5 +49,6 @@ Who we are...
    howto/work_with_exams
    howto/work_with_certificates
    howto/manage_activities/generic_video
+   howto/manage_activities/exam
    howto/manage_activities/survey
    howto/manage_activities/office_mix
