@@ -44,6 +44,7 @@ Edit an Exam
 #. **Activities** page opens containing list of all available activities. 
 #. Select edit icon in the **Actions** column of the activity you wish to edit.
 #. **Edit activity** wizard opens below. 
+#. Non-editable fields will be displayed as read-only. When editing the exam type of activity, you can change things like duration, percentage of coorect answer, number of questions from each group, etc. The exam you've chosen when creating the activity cannot be changed.
 #. Change data in the fields you wish to update and click **Finish** in the last step.
 
 
@@ -51,7 +52,7 @@ Edit an Exam
 Activity will be updated to all enrolled learners who have not yet finished this course, regardless if they have finished the activity or not. 
 Changing the status of an activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in the course's activity list.
 
-.. note:: When editing a survey type of activity, you cannot change the SharePoint survey you've chosen. 
+.. note:: When editing an exam type of activity, you cannot change the exam you've chosen when the activity was created. 
 
 
 Delete an Exam
@@ -60,6 +61,6 @@ Delete an Exam
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
 #. Choose **Activities** from the dropdown menu.
 #. **Activities** page opens containing list of all available activities. 
-#. Select delete icon in the **Actions** column of the survey activity you wish to delete.
+#. Select delete icon in the **Actions** column of the exam activity you wish to delete.
 #. Confirm window opens informing you that activity will be deleted for all enrolled learners in the current learning period. Learners who have enrolled in the previous learning period(s) will not be affected - they will still have this activity.
 #. Click **Yes** to complete the action.
