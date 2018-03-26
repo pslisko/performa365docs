@@ -7,7 +7,7 @@ Application roles needed to work with activities:
 
 ..
 
-Classroom and Virtual Classroom Activity
+Classroom and Virtual Classroom Activities
 =========================================
 
 About
@@ -18,7 +18,7 @@ This feature is used to manage schedules for classes which take place in physica
 Add a Classroom /Virtual Classroom Activity
 ********************************************
 
-#. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
+#. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to add activities to.
 #. You will be redirected to the course page. 
 #. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog administrators, Education owners and users who are instructors in at least one course schedule.
