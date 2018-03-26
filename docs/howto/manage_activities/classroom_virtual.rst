@@ -7,8 +7,6 @@ Application roles needed to work with activities:
 
 ..
 
-..
-
 
 Classroom and Virtual Classroom
 =========================================
@@ -50,8 +48,8 @@ Edit a Classroom /Virtual Classroom
 
 
 .. note:: When editing an activity, you will not be able to change its type. 
-Activity will be updated to all enrolled learners who have not yet finished this course, regardless if they have finished the activity or not. 
-Changing the status of an activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in the course's activity list.
+.. note:: Activity will be updated to all enrolled learners who have not yet finished this course, regardless if they have finished the activity or not. 
+.. note:: Changing the status of an activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in the course's activity list.
 
 Delete a Classroom /Virtual Classroom
 *************************************************
