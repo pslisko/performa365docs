@@ -1,3 +1,7 @@
+
+Classroom and Virtual Classroom
+=========================================
+
 ..
 Application roles needed to work with activities: 
 
@@ -7,9 +11,6 @@ Application roles needed to work with activities:
 
 ..
 
-
-Classroom and Virtual Classroom
-=========================================
 
 About
 **********
