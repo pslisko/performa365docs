@@ -10,8 +10,6 @@ Application roles needed to work with activities:
 * :ref:`Education Owner <education_owner>`
 
 ..
-
-
 About
 **********
 
