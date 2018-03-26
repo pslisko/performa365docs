@@ -1,3 +1,5 @@
+.. _manage_locations:
+
 Manage Locations
 ================
 
