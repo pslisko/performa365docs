@@ -74,6 +74,9 @@ Add a Schedule
 #. List of all available schedules is shown below. When new classroom/virtual classroom type of activity is created, this list is initially empty.
 #. Click on **Add** action button to add new schedule.
 #. Two-step wizard **New Schedule** opens below.
-#. Fill in all required fields. Enter start and finish date 
+#. Fill in all required fields. Required fields are marked with asterisk.
+#. Enter start and finish date by clicking on calendar icon of the datetime picker control. Keep in mind that start date cannot be greater than end date. 
+#. Choose the **Location** from the drop-down list. To be able to choose location from the list, locations first must be defined by the :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to :ref:`How to > Manage Locations <manage_locations>`.
 #. When adding a schedule for virtual classroom type of activity, you will also need to provide **URL to connect**.
-#. Click **Yes** to complete the action.
+#. Click **Next** to continue to the next step.
+#. Instructors 
