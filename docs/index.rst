@@ -52,3 +52,4 @@ Who we are...
    howto/manage_activities/exam
    howto/manage_activities/survey
    howto/manage_activities/office_mix
+   howto/manage_activities/classroom_virtual
