@@ -30,7 +30,7 @@ Add a Classroom /Virtual Classroom Activity
 #. When creating a classroom/virtual classroom type of activity, you need to choose **Classroom**/**Virtual Classroom** from the dropdown menu in the **Type** field. 
 #. When all required fields are filled in, action button **Next** is enabled. 
 #. Click **Next** to continue on to the next step.
-#. In the second step select enter **Total points** for this activity and click **Next**. 
+#. In the second step enter **Total points** for this activity and click **Next**. 
 #. In the final step you will be notified how many learners will be added this activity. New activities will only be added to users who have not yet completed the course. 
 #. Click **Finish** to create the activity.
 
@@ -79,4 +79,31 @@ Add a Schedule
 #. Choose the **Location** from the drop-down list. To be able to choose location from the list, locations first must be defined by the :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to :ref:`How to > Manage Locations <manage_locations>`.
 #. When adding a schedule for virtual classroom type of activity, you will also need to provide **URL to connect**.
 #. Click **Next** to continue to the next step.
-#. Instructors 
+#. Schedule's instructors are listed in the second step. Enter lecture duration for each instructor. 
+#. Click **Save** to complete the action.
+
+Edit a Schedule
+****************
+
+#. On the course page's sub-menu click **Manage** to open a dropdown menu. 
+#. Choose **Activities** from the dropdown menu.
+#. **Activities** page opens containing list of all available activities. 
+#. Select schedule icon in the **Actions** column of the activity schedule you wish to edit.
+#. **Schedules** list opens below. 
+#. Select edit icon in the **Actions** column of the schedule you wish to edit.
+#. Change data in the fields you wish to update and click **Save** in the last step.
+
+
+Delete a Schedule
+****************
+
+#. On the course page's sub-menu click **Manage** to open a dropdown menu. 
+#. Choose **Activities** from the dropdown menu.
+#. **Activities** page opens containing list of all available activities. 
+#. Select schedule icon in the **Actions** column of the activity schedule you wish to edit.
+#. **Schedules** list opens below. 
+#. Select delete icon in the **Actions** column of the schedule you wish to delete.
+#. Confirm window pops up.
+#. Click **Yes** to complete the action.
+
+.. note:: You will not be able to delete a schedule if there are learners already enrolled to it. 
