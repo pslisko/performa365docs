@@ -1,7 +1,7 @@
 Work With Exams
 ================
 
-Application roles needed to manage business areas: 
+Application roles needed to manage exams: 
 
 * :ref:`Test Administrator <test_administrator>`
 * :ref:`Test Creator <test_creator>`
@@ -56,7 +56,7 @@ Test Administrators can delete all exams, Test Creators can only delete an exam 
 
 .. note:: An exam which is a part of a course activity cannot be deleted. 
 
-
+..
 Work with Question Groups
 ***************************
 ***************************
