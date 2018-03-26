@@ -62,9 +62,10 @@ Delete a Classroom /Virtual Classroom
 #. Confirm window opens informing you that activity will be deleted for all enrolled learners in the current learning period. Learners who have enrolled in the previous learning period(s) will not be affected - they will still have this activity.
 #. Click **Yes** to complete the action.
 
-
+..
 Schedules
-==========
+***************
+***************
 
 Add a Schedule
 ****************
