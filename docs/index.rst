@@ -49,6 +49,8 @@ Who we are...
    howto/use_the_catalog
    howto/work_with_courses
    howto/work_with_exams
-   howto/work_with_certificates
    howto/manage_activities/index
+   howto/work_with_certificates
+   howto/enroll_learner_to_course
+  
    
