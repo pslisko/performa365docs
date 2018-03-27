@@ -1,3 +1,5 @@
+.. _view_logs:
+
 View System Logs
 ================
 
