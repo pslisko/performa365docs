@@ -1,3 +1,5 @@
+.. _countries_and_cities:
+
 Manage Countries and Cities
 ===========================
 
