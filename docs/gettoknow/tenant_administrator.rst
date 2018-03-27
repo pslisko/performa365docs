@@ -9,8 +9,8 @@ Tenant Administrator
 Users in this role can:
 
 * :ref:`Manage users <manage_users>`
-* View Logs
-* View Release history
+* :ref:`View system logs <view_logs>`
+* :ref:`View product updates <product_updates>`
 * Configure E-mail notifications
 
 
