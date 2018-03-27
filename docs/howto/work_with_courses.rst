@@ -1,6 +1,7 @@
 Work With Courses
 ======================
 
+.. _add_course:
 
 Add a New Course
 ********************
@@ -40,6 +41,8 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. **Scored points percentage** can be chosen as success criteria by setting it to *ON*. In that case, a new control appears for entering the required points percentage.
 #. Click **Finish**.
 
+.. _edit_course:
+
 Edit a Course
 *****************
 
@@ -60,6 +63,7 @@ Application roles needed to edit a course:
 
 .. note:: When editing a course, Catalog Adminitrator or Education owner can change almost anything they wish, but changes that concern learners will only be applied to those enrolled after the update. Also, a course cannot be deactivated if there are learners enrolled to it.
 
+.. _delete_course:
 
 Delete a Course
 ******************
