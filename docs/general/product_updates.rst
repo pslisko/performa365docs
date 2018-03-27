@@ -1,3 +1,5 @@
+.. _product_updates:
+
 Product updates
 ========
 
