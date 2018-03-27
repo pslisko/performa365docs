@@ -7,7 +7,7 @@ Catalog Administrator
 
 Users in this role can:
 
-* :ref: `create new course <add_course>`
-* :ref: `edit a course <edit_course>`
-* :ref: `delete a course <delete_course>`
+* :ref:`create new course <add_course>`
+* :ref:`edit a course <edit_course>`
+* :ref:`delete a course <delete_course>`
 
