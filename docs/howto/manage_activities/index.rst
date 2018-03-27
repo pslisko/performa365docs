@@ -1,3 +1,6 @@
+Manage Activities
+==================
+
 .. toctree::
   :maxdepth: 1
   :name: toc-manage-activities
