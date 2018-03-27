@@ -1,3 +1,5 @@
+.. _exams:
+
 Work With Exams
 ================
 
