@@ -1,3 +1,5 @@
+.. _business_entities:
+
 Manage Business Entities
 ========================
 
