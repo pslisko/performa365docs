@@ -1,3 +1,5 @@
+.. _email_notifications:
+
 Work With Email Notifications
 =============================
 
