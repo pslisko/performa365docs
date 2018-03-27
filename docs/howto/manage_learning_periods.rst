@@ -1,3 +1,5 @@
+.. _learning_periods:
+
 Manage Learning Periods
 =======================
 Application roles needed to manage learning periods: :ref:`Education Process Administrator <education_process_administrator>`
