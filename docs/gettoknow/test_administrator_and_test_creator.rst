@@ -13,7 +13,7 @@ Exam admin manages the whole knowledge testing process – creates new exams, qu
 ..
 Users in this role can:
 
-* :ref: 'Work with exams <exams>'
+:ref: 'Work with exams <exams>'
 
 
 
@@ -26,4 +26,5 @@ Simmilar to exam admin, however it can only create new exams and manage them rat
 
 ..
 Users in this role can:
-* :ref: 'Work with exams <exams>'
+
+:ref: 'Work with exams <exams>'
