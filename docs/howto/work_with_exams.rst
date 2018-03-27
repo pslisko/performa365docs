@@ -3,13 +3,13 @@ Work With Exams
 
 Application roles needed to manage exams: 
 
-* :ref:`Test Administrator <test_administrator>`
-* :ref:`Test Creator <test_creator>`
+* :ref:`Exam Administrator <exam_administrator>`
+* :ref:`Exam Creator <exam_creator>`
 
 About
 ******
 
-Test Administrators and Test Creators can view exams on the **Catalog** page by clicking on the action button **Exams** in the submenu. This button is only visible to these application roles. Test Administrators can see all available exams, Test Creators can only see exams if they have ownership to them.
+Exam Administrators and Exam Creators can view exams on the **Catalog** page by clicking on the action button **Exams** in the submenu. This button is only visible to these application roles. Exam Administrators can see all available exams, Exam Creators can only see exams if they have ownership to them.
 
 ..
 The ribbon below the submenu contains action button *Add exam*. The right side of the ribbon has icons for sorting exams by name and opening a panel with search and filtering options. This panel also has a checkbox to show/hide deactivated exams.
@@ -18,7 +18,7 @@ The ribbon below the submenu contains action button *Add exam*. The right side o
 Add an Exam
 **************
 
-Both Test Administrators and Test Creators can create exams. 
+Both Exam Administrators and Exam Creators can create exams. 
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -30,7 +30,7 @@ Both Test Administrators and Test Creators can create exams.
 Edit an Exam
 **************
 
-Test Administrators can edit all exams, Test Creators can only edit an exam if they have ownership to the exam.
+Exam Administrators can edit all exams, Exam Creators can only edit an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -44,7 +44,7 @@ Test Administrators can edit all exams, Test Creators can only edit an exam if t
 Delete an Exam
 **************
 
-Test Administrators can delete all exams, Test Creators can only delete an exam if they have ownership to the exam.
+Exam Administrators can delete all exams, Exam Creators can only delete an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -68,7 +68,7 @@ Each exam consists of one or more question groups (pools). Question groups are u
 Add a Question Group
 *********************
 
-Test Administrators can add question groups to all exams, Test Creators can only add question groups to an exam if they have ownership to the exam.
+Exam Administrators can add question groups to all exams, Exam Creators can only add question groups to an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -97,7 +97,7 @@ Test Administrators can add question groups to all exams, Test Creators can only
 Edit a Question Group
 *********************
 
-Test Administrators can edit question groups of all exams, Test Creators can only edit question groups of an exam if they have ownership to the exam.
+Exam Administrators can edit question groups of all exams, Exam Creators can only edit question groups of an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -115,7 +115,7 @@ Test Administrators can edit question groups of all exams, Test Creators can onl
 Delete a Question Group
 *********************
 
-Test Administrators can delete question groups of all exams, Test Creators can only delete question groups of an exam if they have ownership to the exam.
+Exam Administrators can delete question groups of all exams, Exam Creators can only delete question groups of an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
