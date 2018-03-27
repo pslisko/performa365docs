@@ -1,13 +1,16 @@
+
+Office Mix
+================
+
+..
 Application roles needed to work with activities: 
 
 * :ref:`Catalog Administrators <catalog_administrator>`
 
 * :ref:`Education Owner <education_owner>`
 
-
-
-Office Mix
-================
+About
+*******
 
 Office Mix is a free extension to PowerPoint that allows to turn your PowerPoint presentations into interactive lessons and share them online. You can choose to publish your mix within a course by creating an "Office Mix" type of activity. 
 
