@@ -1,3 +1,8 @@
+
+Survey
+================
+
+..
 Application roles needed to work with activities: 
 
 * :ref:`Catalog Administrators <catalog_administrator>`
@@ -5,8 +10,6 @@ Application roles needed to work with activities:
 * :ref:`Education Owner <education_owner>`
 
 
-Survey
-================
 
 
 Add a Survey
