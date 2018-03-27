@@ -63,7 +63,7 @@ Work with Question Groups
 
 Each exam consists of one or more question groups (pools). Question groups are used to group questions by topic or difficulty level. This will allow multiple exam configurations, such as randomization of question from all available questions groups etc.   
 
-.. note:: To be able to create exam questions, at least one active question group must be created first.
+.. attention:: To be able to create exam questions, at least one active question group must be created first.
 
 Add a Question Group
 *********************
