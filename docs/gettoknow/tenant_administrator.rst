@@ -8,9 +8,9 @@ Tenant Administrator
 ..
 Users in this role can:
 
-*. Manage users
-*. View Logs
-* view Release history
-* configure E-mail notifications
+* Manage users
+* View Logs
+* View Release history
+* Configure E-mail notifications
 
 
