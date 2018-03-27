@@ -11,6 +11,5 @@ Users in this role can:
 * :ref:`Manage users <manage_users>`
 * :ref:`View system logs <view_logs>`
 * :ref:`View product updates <product_updates>`
-* Configure E-mail notifications
-
+* :ref:`Configure E-mail notifications <email_notifications>`
 
