@@ -22,7 +22,7 @@ Users in this role can:
 Exam Creator
 *************
 
-Simmilar to exam admin, however it can only create new exams and manage them rather than all exams in the system. This role is typically assigned to a course owner (instructor or teacther) who can then create new exams but cannot view or alter other's exams.
+Similar to exam admin, however it can only create new exams and manage them rather than all exams in the system. This role is typically assigned to a course owner (instructor or teacther) who can then create new exams but cannot view or alter other's exams.
 
 ..
 Users in this role can:
