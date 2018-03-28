@@ -1,6 +1,6 @@
 .. _catalog_administrator:
 
-Catalog Administrator
+Catalog Admin
 ======
 
 **Catalog admins** manage the course catalog. They can create a new course in the catalog as well as edit or remove any course from the catalog.
