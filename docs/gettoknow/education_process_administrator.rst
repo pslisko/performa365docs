@@ -1,9 +1,9 @@
 .. _education_process_administrator:
 
-Education Process Administrator
+Education Process Admin
 ================================
 
-**Education process** admin manages the settings of the overall education process, such as learning locations (classroom), business areas (classification for courses and other learning content), schedules for classroom education etc.
+**Education process admin** manages the settings of the overall education process, such as learning locations (classroom), business areas (classification for courses and other learning content), schedules for classroom education etc.
 
 ..
 Users in this role can:
