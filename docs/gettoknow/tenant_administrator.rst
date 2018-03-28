@@ -1,6 +1,6 @@
 .. _tenant_administrator:
 
-Tenant Administrator
+Tenant Admin
 ======
 
 **Tenant admin** manages administrative and security settings of a single Performa 365 tenant.
