@@ -13,7 +13,23 @@ There are two ways to enroll learners to courses:
 Self enrollment
 ***************
 
+.. 
+This action can be performed by 
+:ref:`learner <learner>`.
 
+..
+Learners can self-enroll to the public courses. Public courses are all those with :ref:`visibility <courses>` set to "Public" which means all learners can see them in the **Catalog** and self-enroll to them.
+
+..
+To self-enroll to the course a learner must perform the following steps:
+
+#. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
+#. Click the tile of the course you wish to self-enroll to.
+#. You will be redirected to the course page. 
+#. In the right sidebar there is some general information about the course (rating, status) and action button **Enroll**. All public courses have this action button. Courses which have their visibility set to *read-only* can be viewed but do not have **Enroll** button and learners cannot self-enroll to them.
+#. Click on **Enroll** to self-enroll to the course.
+#. You will be asked to confirm your action.
+#. Click **Yes**.
 
 .. _administrative_enrollment:
 
@@ -22,7 +38,7 @@ Administrative enrollment
 
 .. 
 This action can be performed by 
-:ref:`Enrollment Admin <enrollment_administrator>`
+:ref:`Enrollment Admin <enrollment_administrator>`.
 
 #. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to add learners to.
