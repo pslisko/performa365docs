@@ -30,4 +30,4 @@ Edit a Business Entity
 #. **Edit Business Entity** form opens below. 
 #. You can change your old data in all fields except **Id** and **External identifier** which are read only.
 
-.. note:: Changing a status to OFF (Deactivated) will disable the usage of this business entity or organization unit in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management<manage_locations>` etc.
+.. note:: Changing a status to OFF (Deactivated) will disable the usage of this business entity or organization unit in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.
