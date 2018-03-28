@@ -1,11 +1,11 @@
 
 
-Exam Administrator & Exam Creator
+Exam Admin & Exam Creator
 ==================================
 
 .. _exam_administrator:
 
-Exam Administrator
+Exam Admin
 *******************
 
 Exam admin manages the whole knowledge testing process – creates new exams, question pools and questions, reviews all exam statistics etc.
