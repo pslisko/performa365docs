@@ -1,6 +1,6 @@
 .. _enrollment_administrator:
 
-Enrollment Administrator
+Enrollment Admin
 ======
 
 Users in this role manage the administrative (central) enrollment of learners in courses. The role is mostly used in organization which need to centralize the process of administrative enrollment of learners into courses for compliance or business reasons.
