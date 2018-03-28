@@ -5,10 +5,13 @@ Manage Business Entities
 
 Application roles needed to manage business entities: :ref:`Education Process Administrator <education_process_administrator>`
 
+.. _about_business_entities:
+
 About Business Entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 TODO Marko
+
 
 Add a Business Entity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -18,7 +21,7 @@ Add a Business Entity
 #. **Add Business Entity** form opens below.
 #. Enter **Name** of your business entity or organization unit. 
 #. Enter optional **External identifier** such as tax number.  (TODO Marko)
-#. Choose the appropriate **Level** - Business group, Business entity or Organization unit per description in About Business Entities (TODO Suncica - link gore).
+#. Choose the appropriate **Level** - Business group, Business entity or Organization unit per description in :ref:`About Business Entities <about_business_entities>`.
 #. Choose **Parent entity** from the dropdown menu. If your business entity doesn't have a parent, enter '-' in **Parent entity** field.
 #. **Save** button is enabled when all required fields are filled.
 #. Click **Save**.
