@@ -5,8 +5,6 @@ By roles
 ========
 
 
-..
-Users in this role can:
 
 * :ref:`Tenant admin <tenant_administrator>`
 * :ref:`Education process admin <education_process_administrator>`
