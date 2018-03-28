@@ -20,6 +20,9 @@ Self enrollment
 Administrative enrollment
 ***************************
 
+.. 
+This action can be performed by :ref: `Enrollment Admin <enrollment_administrator>`
+
 #. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to add learners to.
 #. You will be redirected to the course page. 
