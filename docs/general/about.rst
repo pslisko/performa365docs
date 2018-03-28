@@ -11,4 +11,4 @@ Performa 365 is a modern learning and knowledge management system, created with 
 *	online knowledge testing
 *	surveys
 
-For more information, please see chapters Get To Know Performa 365 - By roles.
+For more information, please see chapters Get To Know Performa 365 - :ref:`by roles <by_roles>`.
