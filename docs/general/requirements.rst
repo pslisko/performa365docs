@@ -1,7 +1,7 @@
 .. _requirements:
 
-Requirements
-========
+System Requirements (End User)
+===============================
 
 Performa 365 runs on any modern web browser on your PC, such as:
 
