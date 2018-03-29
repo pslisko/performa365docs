@@ -1,3 +1,4 @@
+.. _classroom_virtual:
 
 Classroom and Virtual Classroom
 =========================================
