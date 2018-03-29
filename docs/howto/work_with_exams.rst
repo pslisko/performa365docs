@@ -5,13 +5,13 @@ Work With Exams
 
 Application roles needed to manage exams: 
 
-* :ref:`Exam Administrator <exam_administrator>`
+* :ref:`Exam Admin <exam_administrator>`
 * :ref:`Exam Creator <exam_creator>`
 
 About
 ******
 
-Exam Administrators and Exam Creators can view exams on the **Catalog** page by clicking on the action button **Exams** in the submenu. This button is only visible to these application roles. Exam Administrators can see all available exams, Exam Creators can only see exams if they have ownership to them.
+Exam Admins and Exam Creators can view exams on the **Catalog** page by clicking on the action button **Exams** in the submenu. This button is only visible to these application roles. Exam Administrators can see all available exams, Exam Creators can only see exams if they have ownership to them.
 
 ..
 The ribbon below the submenu contains action button *Add exam*. The right side of the ribbon has icons for sorting exams by name and opening a panel with search and filtering options. This panel also has a checkbox to show/hide deactivated exams.
@@ -20,7 +20,7 @@ The ribbon below the submenu contains action button *Add exam*. The right side o
 Add an Exam
 **************
 
-Both Exam Administrators and Exam Creators can create exams. 
+Both Exam Admins and Exam Creators can create exams. 
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -32,7 +32,7 @@ Both Exam Administrators and Exam Creators can create exams.
 Edit an Exam
 **************
 
-Exam Administrators can edit all exams, Exam Creators can only edit an exam if they have ownership to the exam.
+Exam Admins can edit all exams, Exam Creators can only edit an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -46,7 +46,7 @@ Exam Administrators can edit all exams, Exam Creators can only edit an exam if t
 Delete an Exam
 **************
 
-Exam Administrators can delete all exams, Exam Creators can only delete an exam if they have ownership to the exam.
+Exam Admins can delete all exams, Exam Creators can only delete an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -70,7 +70,7 @@ Each exam consists of one or more question groups (pools). Question groups are u
 Add a Question Group
 *********************
 
-Exam Administrators can add question groups to all exams, Exam Creators can only add question groups to an exam if they have ownership to the exam.
+Exam Admins can add question groups to all exams, Exam Creators can only add question groups to an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -99,7 +99,7 @@ Exam Administrators can add question groups to all exams, Exam Creators can only
 Edit a Question Group
 *********************
 
-Exam Administrators can edit question groups of all exams, Exam Creators can only edit question groups of an exam if they have ownership to the exam.
+Exam Admins can edit question groups of all exams, Exam Creators can only edit question groups of an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
@@ -117,7 +117,7 @@ Exam Administrators can edit question groups of all exams, Exam Creators can onl
 Delete a Question Group
 *********************
 
-Exam Administrators can delete question groups of all exams, Exam Creators can only delete question groups of an exam if they have ownership to the exam.
+Exam Admins can delete question groups of all exams, Exam Creators can only delete question groups of an exam if they have ownership to the exam.
 
 #. Click on **Catalog** in the main navigation bar. 
 #. On the **Catalog** page choose **Exams (admin)** in the submenu.
