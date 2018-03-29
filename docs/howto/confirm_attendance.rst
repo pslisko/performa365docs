@@ -19,7 +19,7 @@ For scheduled course activities ( :ref:`Classroom and Virtual Classroom <classro
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the course tile.
 #. You will be redirected to the course page. 
-#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog administrators, Education owners and users who are instructors in at least one course schedule.
+#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Education owners and users who are instructors in at least one course schedule.
 #. Click on **Manage** menu item to open a dropdown menu. 
 #. Choose **Classroom Attendance** from the dropdown menu.
 #. **Classroom Attendance** page opens. 
