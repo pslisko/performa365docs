@@ -1,9 +1,9 @@
 .. _confirm_attendance:
 
-Confirm Learner's Attendance
+Manage Attendance
 ================================
 
-Application roles needed to confirm learner's attendance: 
+Application roles needed to manage attendance: 
 
 * :ref:`Catalog Admin <catalog_administrator>`
 
@@ -11,13 +11,10 @@ Application roles needed to confirm learner's attendance:
 
 * :ref:`Instructor <instructor>`
 
-About
-******
-
-For scheduled course activities ( :ref:`Classroom and Virtual Classroom <classroom_virtual>` type of activities), learner's attendance needs to be confirmed. This will allow the activity to be marked as "completed".
-
 Confirm Attendance
 ******************
+
+For scheduled course activities ( :ref:`Classroom and Virtual Classroom <classroom_virtual>` type of activities), learner's attendance needs to be confirmed. This will allow the activity to be marked as "completed".
 
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the course tile.
@@ -31,4 +28,8 @@ Confirm Attendance
 #. From the **Schedule** drop-down list choose schedule to confirm attendance for. Schedules are listed by date and time.
 #. When all fields have their values chosen, a list of learners enrolled in the schedule appears below.
 #. To confirm attendance for each learner, click **Confirm attendance** in the **Confirm** column.
-#. If additional learners need to be added to the list, add them to **Additional learner** field by enterning at least 3 characters to start the search. Click **Enroll** action button to enroll them to the schedule.
+
+Add Learners to Schedule
+*************************
+
+If additional learners need to be added to the list of attendees, add them to **Additional learner** field by enterning at least 3 characters to start the search. Click **Enroll** action button to enroll them to the schedule.
