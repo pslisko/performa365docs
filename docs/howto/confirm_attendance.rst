@@ -14,7 +14,7 @@ Application roles needed to confirm learner's attendance:
 About
 ******
 
-For scheduled course activities (:ref:`Classroom and Virtual Classroom <classroom_virtual>`type of activities), learner's attendance needs to be confirmed. This will allow the activity to be marked as "completed".
+For scheduled course activities ( :ref:`Classroom and Virtual Classroom <classroom_virtual>` type of activities), learner's attendance needs to be confirmed. This will allow the activity to be marked as "completed".
 
 Confirm Attendance
 ******************
