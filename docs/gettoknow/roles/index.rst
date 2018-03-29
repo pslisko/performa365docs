@@ -12,7 +12,6 @@ By User Roles
   catalog_administrator
   enrollment_administrator
   course_owner
-  exam_administrator
-  exam_creator
+  test_administrator_and_test_creator
   instructor
   learner
