@@ -6,9 +6,9 @@ Work With Courses
 Add a New Course
 ********************
 
-Application roles needed to add a new course: :ref:`Catalog Administrators <catalog_administrator>`.
+Application roles needed to add a new course: :ref:`Catalog Admin <catalog_administrator>`.
 
-A new course is added by clicking *New Course* action button on the **Catalog** page. This button is only visible to Catalog Administrators.
+A new course is added by clicking *New Course* action button on the **Catalog** page. This button is only visible to Catalog Admins.
 
 ..
 The *New Course* button opens a three-step wizard. All required fields are marked with an asterisk and must be filled in to continue to the next step.
@@ -23,7 +23,7 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. **Owners** are selected by typing at least 3 characters in the text field to start the search. Search returns display name and e-mail of users. More than one user can be selected from this list as a course owner. This field is required.
 #. **Visibility** is a required field which determines how the course is displayed in the catalog. To learn more visit :ref:`How to > Use the catalog <courses>`.
 #. **Title image** is displayed on the course page and in the course tile on the catalog page. It is optional and can be up to 10MB in size.
-#. **Status** can be set to either *ON* or *OFF*. Courses with status set to *ON* are active and present in the course catalog, setting the status to *OFF* will deactivate the course and it will be visible in the **Catalog** only to Catalog Administrators. A course cannot be deactivated if there are learners enrolled to it.
+#. **Status** can be set to either *ON* or *OFF*. Courses with status set to *ON* are active and present in the course catalog, setting the status to *OFF* will deactivate the course and it will be visible in the **Catalog** only to Catalog Admins. A course cannot be deactivated if there are learners enrolled to it.
 
 **Step two**
 
@@ -32,7 +32,7 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. When **Sequential activities** is set to *ON* learners must take learning activities in the predefined order. Setting it to *OFF* will allow learners to take learning activities in the arbitrary order.
 #. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or education owner* (learners or education owner confirm course completion).
 #. If **Certificate generation** is set to *ON*, learner will be given a certificate after the successful course completion. If certificates of completion are not given to learners, it should be set to *OFF*. 
-#. **Template** is visible only if **Certificate generation** is set to *ON*. Template is required and is chosen from the drop-down menu. To be able to choose a template from the list, they must first be added by :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Document Templates <manage_document_templates>`.
+#. **Template** is visible only if **Certificate generation** is set to *ON*. Template is required and is chosen from the drop-down menu. To be able to choose a template from the list, they must first be added by :ref:`Education Process Admin <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Document Templates <manage_document_templates>`.
 
 **Step three**
 
@@ -55,13 +55,13 @@ Application roles needed to edit a course:
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to edit.
 #. You will be redirected to the course page. 
-#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog administrators, Education owners and users who are instructors in at least one course schedule.
+#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Education owners and users who are instructors in at least one course schedule.
 #. Click on **Manage** menu item to open a dropdown menu. 
 #. Choose **Edit course** from the dropdown menu.
 #. A three-step wizard opens, identical to the one for adding a new course. 
 #. Complete the wizard and click **Finish**.
 
-.. note:: When editing a course, Catalog Adminitrator or Education owner can change almost anything they wish, but changes that concern learners will only be applied to those enrolled after the update. Also, a course cannot be deactivated if there are learners enrolled to it.
+.. note:: When editing a course, Catalog Admin or Education owner can change almost anything they wish, but changes that concern learners will only be applied to those enrolled after the update. Also, a course cannot be deactivated if there are learners enrolled to it.
 
 .. _delete_course:
 
