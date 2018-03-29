@@ -8,4 +8,4 @@ This role is dynamically assigned to any user which is assigned to at least one 
 ..
 Users in this role can perform following activities, only for their „owned“ courses:
 
-* :ref:`Edit Course <edit_course>`
+* :ref:`Edit a Course <edit_course>`
