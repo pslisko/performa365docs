@@ -7,7 +7,7 @@ Application roles needed to confirm learner's attendance:
 
 * :ref:`Catalog Administrators <catalog_administrator>`
 
-* :ref:`Education Owner <education_owner>`
+* :ref:`Education Owner <course_owner>`
 
 * :ref:`Instructor <instructor>`
 
