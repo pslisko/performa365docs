@@ -3,7 +3,7 @@
 Manage Countries and Cities
 ===========================
 
-Application roles needed to manage learning periods: :ref:`Education Process Administrator <education_process_administrator>`
+Application roles needed to manage learning periods: :ref:`Education Process Admin <education_process_administrator>`
 
 Add country
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
