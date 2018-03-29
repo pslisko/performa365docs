@@ -17,8 +17,8 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 
 #. **Name** is required and must be unique. The system will notify the user if a course with the same name already exists.
 #. **Description** is optional. It is aimed at learners and displayed on course's homepage. Therefore, it should contain information such as curriculum, requirements, duration, etc.
-#. **Business areas** is required. More than one business area can be selected when creating new course. To be able to choose business areas from the list, they must first be created by :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Business Areas <manage_business_areas>`.
-#. **Primary delivery model** describes how the course is executed. It is a required, single choice field. The catalog administrator must choose between three options: *classroom*, *virtual (e-learning)* and *blended learning*.
+#. **Business areas** is required. More than one business area can be selected when creating new course. To be able to choose business areas from the list, they must first be created by :ref:`Education Process Admin <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Business Areas <manage_business_areas>`.
+#. **Primary delivery model** describes how the course is executed. It is a required, single choice field. The catalog admin must choose between three options: *classroom*, *virtual (e-learning)* and *blended learning*.
 #. **Languages** are optional and more than one can be chosen from the drop-down menu.
 #. **Owners** are selected by typing at least 3 characters in the text field to start the search. Search returns display name and e-mail of users. More than one user can be selected from this list as a course owner. This field is required.
 #. **Visibility** is a required field which determines how the course is displayed in the catalog. To learn more visit :ref:`How to > Use the catalog <courses>`.
@@ -48,7 +48,7 @@ Edit a Course
 
 Application roles needed to edit a course: 
 
-* :ref:`Catalog Administrators <catalog_administrator>`
+* :ref:`Catalog Admin <catalog_administrator>`
 
 * :ref:`Education Owner <education_owner>`
 
