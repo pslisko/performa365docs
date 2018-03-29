@@ -9,4 +9,4 @@ If this role is not used, course owners can still administrativelly enroll learn
 ..
 Users in this role can:
 
-* :ref:`administratively enroll learners to courses <administrative_enrollment>`
+* :ref:`Administratively Enroll Learners to Courses <administrative_enrollment>`
