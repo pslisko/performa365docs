@@ -1,12 +1,11 @@
 HTML5
 =========================================
 
-..
 Application roles needed to work with activities: 
 
 * :ref:`Catalog Administrators <catalog_administrator>`
 
-* :ref:`Education Owner <education_owner>`
+* :ref:`Course Owner <course_owner>`
 
 ..
 About
