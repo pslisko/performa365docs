@@ -22,7 +22,7 @@ Who we are...
    :hidden:
    :caption: GET TO KNOW PERFORMA 365
 
-   gettoknow/index
+   gettoknow/roles/index
    
    
    
