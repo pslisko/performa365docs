@@ -7,3 +7,5 @@ This role is dynamically assigned to any user which is assigned to at least one 
 
 ..
 Users in this role can perform following activities, only for their „owned“ courses:
+
+* Edit Course
