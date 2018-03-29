@@ -22,14 +22,8 @@ Who we are...
    :hidden:
    :caption: GET TO KNOW PERFORMA 365
 
-   gettoknow/tenant_administrator
-   gettoknow/catalog_administrator
-   gettoknow/enrollment_administrator
-   gettoknow/education_process_administrator
-   gettoknow/test_administrator_and_test_creator
-   gettoknow/course_owner
-   gettoknow/instructor
-   gettoknow/learner
+   gettoknow/index
+   
    
    
 .. toctree::
