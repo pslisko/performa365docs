@@ -46,5 +46,6 @@ Who we are...
    howto/manage_activities/index
    howto/work_with_certificates
    howto/enroll_learner_to_course
+   howto/confirm_attendance
   
    
