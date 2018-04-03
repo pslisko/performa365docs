@@ -5,7 +5,7 @@ Manage Countries and Cities
 
 Application roles needed to manage learning periods: :ref:`Education Process Admin <education_process_administrator>`
 
-Add country
+Add a Country
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. In the **Education process management** section on the **Manage** page click **Countries** tile.
 #. **Countries** form is shown on top of the page containing list of all available countries and action button **Add**.
@@ -15,7 +15,7 @@ Add country
 #. **Save** button is enabled when all required fields are filled.
 #. Click **Save**.
 
-Edit country
+Edit a Country
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Go to **Manage** > **Countries**.
 #. In the list of countries select edit icon in the **Actions** column of the country you wish to edit.
@@ -23,14 +23,14 @@ Edit country
 #. You can change all the fields except **Id** which is read-only.
 #. Click **Save**.
 
-Delete country
+Delete a Country
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Go to **Manage** > **Countries**.
 #. In the list of countries select delete icon in the **Actions** column of the country you wish to delete.
 #. A window pops up asking you to confirm the action.
 #. Click "Yes".
 
-Add city
+Add a City
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. In the **Education process management** section on the **Manage** page click **Cities** tile.
 #. **Cities** form is shown on top of the page containing list of all available cities and action button **Add**.
@@ -42,7 +42,7 @@ Add city
 
 .. note:: To add a city you must have country added first.
 
-Edit city
+Edit a City
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Go to **Manage** > **Cities**.
 #. In the list of cities select edit icon in the **Actions** column of the city you wish to edit.
@@ -50,7 +50,7 @@ Edit city
 #. You can change all the fields except **Id** which is read-only.
 #. Click **Save**.
 
-Delete city
+Delete a City
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Go to **Manage** > **Cities**.
 #. In the list of cities select delete icon in the **Actions** column of the city you wish to delete.
