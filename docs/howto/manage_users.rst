@@ -31,8 +31,7 @@ Create a New User
 #. **Users** page is shown containing a list of all users and action button **Add**.
 #. Click **Add** button.
 #. **Add user** form opens below.
-
-TODO Suncica: ostali koraci
+#. Fill in required fields and click **Save**.
 
 Update User's Data
 ^^^^^^^^^^^^^^
@@ -43,9 +42,6 @@ Update User's Data
 #. All fields are editable except **Id** and **E-mail** which are read-only.  
 #. Click **Save**.
 
-.. note:: todo
-   
-
 Deactive a User
 ^^^^^^^^^^^^^^^^^
 
@@ -53,4 +49,9 @@ Deactive a User
 
 Deactivation disables a user from logging or performing any activity in the system. 
 
-TODO Suncica: Koraci za promjenu statusa.
+#. Go to **Manage** > **Users**.
+#. In the list of users select edit icon in the **Actions** column of the user you wish to edit.
+#. **Edit User** form opens below.
+#. Change toggle button **Status**  to *OFF*.
+#. Click **Save**.
+
