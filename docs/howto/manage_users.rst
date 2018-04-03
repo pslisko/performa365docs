@@ -55,3 +55,9 @@ Deactivation disables a user from logging or performing any activity in the syst
 #. Change toggle button **Status**  to *OFF*.
 #. Click **Save**.
 
+User Sync
+**********
+
+When configuring tenant for the first time, initial sync with AAD is performed. All user data including application roles are mapped and added to the database.
+
+User sync is also performed once per day. Any updates on AAD which include newly added users or update of existing user's first name, last name, display name or email will be updated in the database. 
