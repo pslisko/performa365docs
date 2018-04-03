@@ -1,3 +1,5 @@
+.. _courses:
+
 Work With Courses
 ======================
 
