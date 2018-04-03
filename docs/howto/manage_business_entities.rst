@@ -3,7 +3,7 @@
 Manage Business Entities
 ========================
 
-Application roles needed to manage business entities: :ref:`Education Process Administrator <education_process_administrator>`
+Application roles needed to manage business entities: :ref:`Education Process Admin <education_process_administrator>`
 
 .. _about_business_entities:
 
