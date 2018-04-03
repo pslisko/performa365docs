@@ -29,4 +29,5 @@ Certificate template can contain following variables:
 View Certificates as a Learner
 ******************************
 
-Learners who have successfuly finished a course that 
+Learners who have successfuly finished a course and were issuead a certificate, can view their certificate by going to **My Profile**.
+On the profile page, **Finished Courses** contains list of all completed courses and dates of completion for each course. Courses with ceritificates of completion will have those documents displayed as links **Show certificate**. Clicking on this link will download learner's certificate.
