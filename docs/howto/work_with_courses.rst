@@ -82,4 +82,10 @@ Delete a Course
 View All Enrolled Learners
 ****************************
 
-TODO
+#. Go to **Catalog** > **Courses**. 
+#. Click the tile of the course you wish to view learners from.
+#. You will be redirected to the course page. 
+#. Choose **Enrolled Learners** from the **Manage** dropdown menu in course's submenu.
+#. **Learners** page opens containing list of learners enrolled in this course.
+#. To view learner's details click on *Details* in the **Action** column.
+#. User's details panel opens below containing information on user's points scored, success and status.
