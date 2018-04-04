@@ -5,12 +5,12 @@ Manage Users
 
 Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_administrator>`
 
-Authentication and Authorization
+User Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO Marko - opisati tipove authN i AthZ: AAD, ADFS
+Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (AD FS) account. Identity provider is defined per tenant and selected in the initial tenant configuration (TBD: link).
 
-User management features described below depend on the selected identity provider. Identity provider is selected in the tenant configuration (TBD: link).
+User management features described below depend on the selected identity provider. 
 
 
 View All Users
@@ -58,6 +58,6 @@ Deactivation disables a user from logging or performing any activity in the syst
 User Sync
 **********
 
-When configuring tenant for the first time, initial sync with AAD is performed. All user data including application roles are mapped and added to the database.
+.. note:: This action is only available for AAD identity provider.
 
-User sync is also performed once per day. Any updates on AAD which include newly added users or update of existing user's first name, last name, display name or email will be updated in the database. 
+User Sync process is executed once per day and syncs all users and their account data from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
