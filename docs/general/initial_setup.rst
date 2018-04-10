@@ -1,7 +1,7 @@
 .. _initial_setup:
 
-Initial setup
-==============
+Initial Data Setup
+===================
 
 Application roles needed to perform initial setup: :ref:`Education Process Admin <education_process_administrator>`.
 
@@ -9,7 +9,7 @@ Application roles needed to perform initial setup: :ref:`Education Process Admin
 Required Steps
 **************
 
-After your tenant has been created, please take these required steps to set up initial data sets:
+After your tenant has been created, please set up these initial data sets:
 
 #. :ref:`Create the initial learning periods <learning_periods>`
 #. :ref:`Create business areas for tagging your courses <manage_business_areas>`
