@@ -3,12 +3,11 @@
 Tenant Admin
 ======
 
-**Tenant admin** manages administrative and security settings of a single Performa 365 tenant.
+**Tenant admin** manages administrative and security settings of their Performa 365 tenant.
 
 ..
 Users in this role can:
 
-* :ref:`Configure a tenant <initial_setup>`
 * :ref:`Manage users <manage_users>`
 * :ref:`View system logs <view_logs>`
 * :ref:`View product updates <product_updates>`
