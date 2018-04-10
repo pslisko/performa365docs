@@ -7,7 +7,7 @@ Application roles needed to manage document templates: :ref:`Education Process A
 
 About Document Templates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Document templates are used to generate documents automatically. When learners successfully finish enrolled courses, a certificate of completion will be generated for them using a template. Information such as education name, learner's name, date of compleation and total education duration will be displayed in generated document and users will be able to view or download that file from their profile page. 
+Document templates are used for auto-generated documents, such as cerificate of a competed course. Information such as education name, learner's name, date of compleation and total education duration can be displayed in a generated document. The list of variables which can be used in a particular template is shown on the place where template is used. For example, on the course creation form, the creator can see a list of variables to be inserted in the user's certificate and thus choose a template which contains these variables).
 
 Add a Document Template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -16,7 +16,7 @@ Add a Document Template
 #. Click **Add** to add new template.
 #. **Add Template** form opens below.
 #. Template is added by dropping a file in the drag-and-drop control or clicking the control and choosing the file from the computer.
-#. **Save** button is enabled if the selected file is in correct format (.doc or .docx) and size (smaller than 10MB).
+#. **Save** button is enabled if the selected file is in correct format (.docx, for example) and size (smaller than 10MB).
 #. Click **Save**.
 
 Edit a Document Template
