@@ -8,8 +8,8 @@ Tenant Admin
 ..
 Users in this role can:
 
+* :ref:`Configure a tenant <initial_setup>`
 * :ref:`Manage users <manage_users>`
 * :ref:`View system logs <view_logs>`
 * :ref:`View product updates <product_updates>`
 * :ref:`Configure E-mail notifications <email_notifications>`
-
