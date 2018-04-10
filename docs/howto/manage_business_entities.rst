@@ -20,7 +20,7 @@ Add a Business Entity
 #. Click **Add** to add a new business entity.
 #. **Add Business Entity** form opens below.
 #. Enter **Name** of your business entity or organization unit. 
-#. Enter optional **External identifier** such as tax number.  (TODO Marko)
+#. Enter optional **External identifier** such as tax number. This field is typically used for integration with your in-house systems when business entities and organizations registry is fetched automatically. 
 #. Choose the appropriate **Level** - Business group, Business entity or Organization unit per description in :ref:`About Business Entities <about_business_entities>`.
 #. Choose **Parent entity** from the dropdown menu. If your business entity doesn't have a parent, enter '-' in **Parent entity** field.
 #. **Save** button is enabled when all required fields are filled.
@@ -33,4 +33,4 @@ Edit a Business Entity
 #. **Edit Business Entity** form opens below. 
 #. You can change your old data in all fields except **Id** and **External identifier** which are read only.
 
-.. note:: Changing a status to OFF (Deactivated) will disable the usage of this business entity or organization unit in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.
+.. note:: Changing a status to OFF (Deactivated) will disable usage of this business entity or organization unit in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.)
