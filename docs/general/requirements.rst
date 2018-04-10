@@ -1,7 +1,7 @@
 .. _requirements:
 
-System Requirements (End User)
-===============================
+System Requirements For End Users
+=================================
 
 Performa 365 runs on any modern web browser on your PC, such as:
 
@@ -10,4 +10,4 @@ Performa 365 runs on any modern web browser on your PC, such as:
 *	Microsoft Edge
 *	Mozilla Firefox (recommended version 57+)
 
-Additional software or plug-ins may be needed to access the specific learning content provided in Performa 365.
+Additional software or plug-ins may be needed to access specific learning content stored in your tenant.
