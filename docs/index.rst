@@ -10,8 +10,6 @@ To learn about user roles in Performa 365 and what they can do, please check the
 To learn how to do a specific task, such as use the catalog or work with courses, please check articles in section HOW TO.
 
 
-:ref:`Requirements <requirements>`
-
 .. toctree::
    :maxdepth: 2
    :hidden:
