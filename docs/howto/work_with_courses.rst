@@ -29,19 +29,23 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 
 **Step two**
 
-#. **Discussion group** field is optional. It can be filled with the feed ID of the dedicated yammer group.
-#. **Course owners can enroll learners** indicates that learners can be enrolled to the course by both Course owners and Enrollment administrators (if set to *ON*) or only by Enrollment administrators (if set to *OFF*). This toggle button is set to *ON* by default.
+#. **Discussion group** field enables you to connect the course with an existing Yammer group. If this is needed, enter the Yammer group feedID (a numeric value found in the URL when Yammer group is opened).
+#. **Course owners can enroll learners** indicates that learners can be enrolled in the course by both Course owners and Enrollment administrators (if set to *ON*) or only by Enrollment administrators (if set to *OFF*). This toggle button is set to *ON* by default.
 #. When **Sequential activities** is set to *ON* learners must take learning activities in the predefined order. Setting it to *OFF* will allow learners to take learning activities in the arbitrary order.
-#. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or education owner* (learners or education owner confirm course completion).
-#. If **Certificate generation** is set to *ON*, learner will be given a certificate after the successful course completion. If certificates of completion are not given to learners, it should be set to *OFF*. 
-#. **Template** is visible only if **Certificate generation** is set to *ON*. Template is required and is chosen from the drop-down menu. To be able to choose a template from the list, they must first be added by :ref:`Education Process Admin <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Document Templates <manage_document_templates>`.
+#. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or education owner* (course completion can be confirmed by education owner as well).
+#. If **Certificate generation** is set to *ON*, learner will get an auto-generated certificate after the successful course completion. If certificates of completion should not be created, set this option to *OFF*. 
+#. **Template** is visible only if **Certificate generation** is set to *ON*. In that case, a template is required and is chosen from the drop-down menu. To be able to choose a template from the list, they must first be added by :ref:`Education Process Admin <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Document Templates <manage_document_templates>`.
 
 **Step three**
 
+This steps defines success criteria for a course. To finish the course successfully, learner must meet all criteria for the list below which are set to *ON*. At least one criteria must be set to *ON*.
+
 #. If **All activities completed** is course's success criteria, this toggle button should be set to *ON*. 
 #. **All activities successfully completed** can be set to either *ON* or *OFF*. If **All activities completed** is set to *OFF*, this also will be set to *OFF*.
-#. **Scored points percentage** can be chosen as success criteria by setting it to *ON*. In that case, a new control appears for entering the required points percentage.
+#. **Scored points percentage** can be chosen as success criteria by setting it to *ON*. In that case, a new control appears for entering the required percentage.
 #. Click **Finish**.
+
+.. note:: Course success is different from course completion. Course can be completed as soon as all mandatory activities are finished. However, it will be successful only when all success criteria are met. The status indicator next to the progress bar on the course page shows the details about course comletion and success at all times.  
 
 .. _edit_course:
 
@@ -63,7 +67,7 @@ Application roles needed to edit a course:
 #. A three-step wizard opens, identical to the one for adding a new course. 
 #. Complete the wizard and click **Finish**.
 
-.. note:: When editing a course, Catalog Admin or Education owner can change almost anything they wish, but changes that concern learners will only be applied to those enrolled after the update. Also, a course cannot be deactivated if there are learners enrolled to it.
+.. note:: When editing a course, Catalog Admin or Education Owner can change almost any option, however changes that concern learners will only be applied to newly enrolled learners (enrolled after the change). In addition, a course cannot be deactivated if there are learners enrolled to it.
 
 .. _delete_course:
 
