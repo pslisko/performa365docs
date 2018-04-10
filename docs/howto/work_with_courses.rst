@@ -67,7 +67,7 @@ Application roles needed to edit a course:
 #. A three-step wizard opens, identical to the one for adding a new course. 
 #. Complete the wizard and click **Finish**.
 
-.. note:: When editing a course, Catalog Admin or Education Owner can change almost any option, however changes that concern learners will only be applied to newly enrolled learners (enrolled after the change). In addition, a course cannot be deactivated if there are learners enrolled to it.
+.. note:: When editing a course, Catalog Admin or Education Owner can change almost any option, however changes that concern learners will only be applied to newly enrolled learners (enrolled after the change).
 
 .. _delete_course:
 
