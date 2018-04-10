@@ -54,7 +54,7 @@ Deactivation disables a user from logging on or performing any activity in the s
 #. Click **Save**.
 
 User Sync
-**********
+^^^^^^^^^^^^
 
 .. note:: This action is only available for AAD identity provider.
 
