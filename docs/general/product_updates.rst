@@ -1,7 +1,7 @@
 .. _product_updates:
 
-Product updates
-========
+Product Updates
+================
 
 
 11/28/17
