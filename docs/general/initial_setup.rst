@@ -3,7 +3,7 @@
 Initial setup
 ==============
 
-Application roles needed to perform initial setup: :ref:`Tenant Admin <tenant_administrator>`.
+Application roles needed to perform initial setup: :ref:`Education Process Admin <education_process_administrator>`.
 
 
 Required Steps
