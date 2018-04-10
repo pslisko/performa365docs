@@ -1,7 +1,13 @@
-Welcome to Performa365
+Welcome to Performa 365
 ==========================
 
-Who we are...
+Welcome to the home of Performa 365 user documentation. 
+
+To start learning about Performa 365, please chech articles in the GENERAL section in the left mavigation.
+
+To learn about user roles in Performa 365 and what they can do, please check the section GET TO KNOW PERFORMA 365 - BY USER ROLES.
+
+To learn how to do a specific task, such as use the catalog or work with courses, please check articles in section HOW TO.
 
 
 :ref:`Requirements <requirements>`
