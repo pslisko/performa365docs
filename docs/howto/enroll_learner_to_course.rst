@@ -1,7 +1,7 @@
 .. _enroll_learner_to_course:
 
-Enroll learner to course
-========================
+Enroll Learners to Courses
+==========================
 
 There are two ways to enroll learners to courses:
 
