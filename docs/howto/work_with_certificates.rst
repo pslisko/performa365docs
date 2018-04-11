@@ -4,7 +4,7 @@ Work With Certificates
 About
 *******
 
-Certificates are used to create personalized documents given to users after successfuly completing a course. They are optional and defined when adding/editing a course by setting **Certificate generation** to *ON* in the :ref:`second step of **Add Course** wizard <add_course>`.
+Certificates are used to create personalized documents given to users after successfuly completing a course. They are optional and defined when adding/editing a course by setting **Certificate generation** to *ON* in the second step of :ref:`Add Course <add_course>` wizard.
 
 Create a Certificate
 *********************
@@ -29,5 +29,5 @@ Certificate template can contain following variables:
 View Certificates as a Learner
 ******************************
 
-Learners who have successfuly finished a course and were issuead a certificate, can view their certificate by going to **My Profile**.
+Learners who have successfuly finished a course and were issued a certificate, can view their certificate by going to **My Profile**.
 On the profile page, **Finished Courses** contains list of all completed courses and dates of completion for each course. Courses with ceritificates of completion will have those documents displayed as links **Show certificate**. Clicking on this link will download learner's certificate.
