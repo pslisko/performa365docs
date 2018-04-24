@@ -18,7 +18,7 @@ Fixed:
 * Exam questions scroller
    Scroll buttons replaced with slider for faster navigation.
 * User management "Add" action
-   Adding users in "Manage Users" is disabled if "User management allowed" is set to "OFF" in tenant configuration. Adding users feature in "Manage Users" is only available for AD FS identity provider.
+   Adding users in "Manage Users" (only available for AD FS identity provider) is disabled if "User management allowed" is set to "OFF" in tenant configuration. 
 
 Changed:
 
