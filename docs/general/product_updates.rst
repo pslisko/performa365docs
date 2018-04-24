@@ -3,6 +3,30 @@
 Product Updates
 ================
 
+04/24/18
+
+Performa 365 v2.0.5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New:
+
+* User Sync Service
+   User Sync service is available for AAD identity provider. It is executed once per day and syncs all users from the mapped user groups to Performa 365.
+
+Fixed:
+
+* Exam questions scroller
+   Scroll buttons replaced with slider for faster navigation.
+*  User management "Add" action
+   Adding users in "Manage Users" is disabled if "User management allowed" is set to "OFF" in tenant configuration. Adding users feature in "Manage Users" is only available for AD FS identity provider.
+
+Changed:
+
+* Course sidebar
+   Course status replaced with progress bar, success replaced with emojis. Clicking on an emoji gives additional info.
+* Health Analyzer Update
+   Health Analyzer configured to check User Sync.
+
 
 11/28/17
 
