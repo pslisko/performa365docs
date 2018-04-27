@@ -97,17 +97,15 @@ View All Enrolled Learners
 #. User's details panel opens below containing information on user's points scored, success and status.
 
 Work with Documents
-=======================
+****************************
+
+Each course contains its own document repository. Course owners and instructors can use this repository to upload course materials while learners can view/download them.
 
 Application roles needed to work with documents: 
 
 * :ref:`Course owner <course_owner>`
 * :ref:`Instructor <instructor>`
 
-About
-*******
-
-Each course contains its own document repository. Course owners and instructors can use this repository to upload course materials while learners can view/download them.
 
 View documents as a learner
 ******************************
