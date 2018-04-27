@@ -9,7 +9,7 @@ Application roles needed to work with documents:
 About
 *******
 
-Each course contains document repository. Education Owners and Instructors can use this repository to upload course materials, learners can view/download them.
+Each course contains its own document repository. Course owners and Instructors can use this repository to upload course materials while learners can view/download them.
 
 View documents as a Learner
 ******************************
@@ -17,7 +17,7 @@ View documents as a Learner
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of your enrolled course.
 #. You will be redirected to the course page. 
-#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Education owners and users who are instructors in at least one course schedule.
+#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Course owners and Instructors (in case of virtual or classic classroom activities).
 #. Click on **Documents**. 
 #. **Documents** page opens containing all available files for that course. Each document is represented by the tile.
 #. Click on the document tile to view/download the content.
