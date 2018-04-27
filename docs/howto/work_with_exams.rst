@@ -1,6 +1,6 @@
 .. _exams:
 
-Work With Exams
+Work with Exams
 ================
 
 Application roles needed to manage exams: 
