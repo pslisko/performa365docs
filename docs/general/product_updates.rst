@@ -3,6 +3,14 @@
 Product Updates
 ================
 
+Performa 365 v2.0.6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New:
+
+* New report added
+   Learners' test results are now displayed in new report. 
+
 04/24/18
 
 Performa 365 v2.0.5
