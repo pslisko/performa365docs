@@ -74,6 +74,11 @@ Application roles needed to edit a course:
 Delete a Course
 ******************
 
+Application roles needed to delete a course: 
+
+* :ref:`Catalog Admin <catalog_administrator>`
+
+
 #. Go to **Catalog** > **Courses**. 
 #. Click the tile of the course you wish to delete.
 #. You will be redirected to the course page. 
