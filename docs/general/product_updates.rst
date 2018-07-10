@@ -3,6 +3,20 @@
 Product Updates
 ================
 
+07/10/2018
+
+Performa 365 v2.0.6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New:
+
+* Clone course functionality added
+   New functionality creates a copy of an existing course. Cloned course has new name, activities and other data remain the same.      Enrolled learners, schedules and documents are not cloned.
+* Email notifications
+Email is sent to administratively enrolled/disenrolled users. If a course has due date, administratively enrolled learners will receive an email as a reminder.
+   Learners who are self-enrolled in a course will receive email notifications as a reminder for upcoming activities.
+
+
 Performa 365 v2.0.6
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
