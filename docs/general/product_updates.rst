@@ -5,7 +5,7 @@ Product Updates
 
 07/10/2018
 
-Performa 365 v2.0.6
+Performa 365 v2.0.7
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 New:
