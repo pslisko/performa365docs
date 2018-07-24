@@ -16,8 +16,8 @@ Add Location
 #. **Locations** form is shown on top of the page containing list of all available locations and action button **Add**.
 #. click **Add** to add new location.
 #. **Add Location** form opens below.
-#. Enter Name of your location.
-#. Choose business entity it belongs to from the dropdown menu. If the location is within your own company, set the Business entity to your company. If you do the education on some rented locations, set the address and business entity to the one providing you this location. For example, you may have “Room 101” in "My Company" but also “Room A” in "Company Next Door" if your classroom is occupied. With this property, and other properties like address, you know which one you select.
+#. Enter **Name** of your location.
+#. Choose **Business entity** it belongs to from the dropdown menu. If the location is within your company's premises, set the Business entity to your company. If you perform educational activities on some rented locations, set the address and business entity to the company providing you this location. For example, you may have “Room 101” in "My Company" but also “Room A” in "Company Next Door" if your classroom is occupied. With this property, and other properties like address, you know which one you select.
 #. Enter numbers for **Seats** and **Number of computers** in numeric up and down control field. Set **Location** to either **Virtual** or **Physical**. 
 #. Toggle button **Status** is set to **On** by default. Setting it to **Off** will disable the location which means you can still create it but it will not be visible when adding location to schedules.
 #. **Save** button is enabled when all required fields are filled.
