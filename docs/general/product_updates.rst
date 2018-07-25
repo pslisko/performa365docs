@@ -3,6 +3,16 @@
 Product Updates
 ================
 
+07/25/2018
+
+Performa 365 v2.0.8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Fixed:
+
+* Email notifications
+   If a certificate is created after successful course completion, auto-generated email sent to users will remind them that the certificate can be found on their user profile.
+
 07/10/2018
 
 Performa 365 v2.0.7
