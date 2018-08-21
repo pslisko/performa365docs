@@ -90,6 +90,23 @@ Application roles needed to delete a course:
 
 .. note:: You will not be able to delete a course if there is at least one learner enrolled by assignment or at least one learner who has completed the course. 
 
+Clone a Course
+******************
+
+Application roles needed to clone a course: 
+
+* :ref:`Catalog Admin <catalog_administrator>`
+
+
+#. Go to **Catalog** > **Courses**. 
+#. Click the tile of the course you wish to clone.
+#. You will be redirected to the course page. 
+#. Choose *Clone course** from the **Manage** dropdown menu in course's submenu.
+#. A dialog window opens asking the user to enter a name for the course being cloned. 
+#. Enter the name for the new course and click *Confirm*.
+
+.. note:: With the cloning process, it is possible to quickly generate new course according to the cloning course template. Cloned course will have all the attributes and activities of the course being cloned but will not have its documents or schedules (for physical or virtual classroom activities). Survey type of activities cannot be cloned either.
+
 View All Enrolled Learners
 ****************************
 
