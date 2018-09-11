@@ -12,7 +12,8 @@ About Business Entities
 
 Business Entities represent organizations (companies) or organization units (departments, offices) used in the learning process. Typically, here you can manage your organization hierarchy as well as add external organizations if you use them in your education process. Addititionally, if your organization is part of a group of companies, such business group can also be added here. 
 
-In total, this module supports 3 levels of business entities:
+In total, this module supports 3 levels of business entities: 
+
 * Business group
 * Business entity
 * Organization unit
