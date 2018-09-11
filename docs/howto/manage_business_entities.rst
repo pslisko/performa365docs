@@ -10,7 +10,14 @@ Application roles needed to manage business entities: :ref:`Education Process Ad
 About Business Entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Business Entities represent organizations or organization units used in the learning process. Typically, here you can manage your organization hierarchy as well as add all organization where education takes place externally.
+Business Entities represent organizations (companies) or organization units (departments, offices) used in the learning process. Typically, here you can manage your organization hierarchy as well as add external organizations if you use them in your education process. Addititionally, if your organization is part of a group of companies, such business group can also be added here. 
+
+In total, this module supports 3 levels of business entities:
+* Business group
+* Business entity
+* Organization unit
+
+Entity on each level can have unlimited number of parents so there is no practical limit on organisation hierarchy.  
 
 Add a Business Entity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -32,4 +39,4 @@ Edit a Business Entity
 #. **Edit Business Entity** form opens below. 
 #. You can change your old data in all fields except **Id** and **External identifier** which are read only.
 
-.. note:: Changing a status to OFF (Deactivated) will disable usage of this business entity or organization unit in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.)
+.. note:: Changing the entity status to OFF (Deactivated) will disable usage of this  entity in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.)
