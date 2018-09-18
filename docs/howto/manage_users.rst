@@ -8,8 +8,16 @@ Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_ad
 User Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (AD FS) account. User management features described below depend on the selected identity provider. 
+Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (AD FS) account. 
 
+User management features described below depend on the selected identity provider:
+
+* :ref:`User management for AAD identity provider<AAD>`
+* :ref:`User management for AAD identity provider<ADFS>`
+
+
+User management for AAD identity provider
+================================================
 
 View All Users
 ^^^^^^^^^^^^^^
