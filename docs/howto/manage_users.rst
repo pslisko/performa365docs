@@ -31,23 +31,13 @@ View All Users
 
 .. note:: Availability of **Edit** action depends on your tenant configuration. For more info, contact your service provider.
 
-Create a New User
-^^^^^^^^^^^^^^
-
-.. note:: This action is only available for AD FS identity provider.
-
-#. In the **System settings** section on the **Manage** page click **Users** tile.
-#. **Users** page is shown containing a list of all users and action button **Add**.
-#. Click **Add** button.
-#. **Add user** form opens below.
-#. Fill in required fields and click **Save**.
-
-Update User's Data
+Update User's Information
 ^^^^^^^^^^^^^^
 
 #. Go to **Manage** > **Users**.
 #. Select edit icon in the **Actions** column for the user you wish to edit.
-#. **Edit User** form opens below (some fields might be read-only, depending on your identity provider and tenant configuration).
+#. **Edit User** form opens below.
+#. Id, First Name, Last Name, Display Name and E.mail are read-only, depending on your identity provider and tenant configuration).
 #. Do the changes.
 #. Click **Save**.
 
@@ -82,3 +72,14 @@ View All Users
 #. In the **Actions** column there are **Details** and **Edit** icons for each user.
 #. Click **Details** icon to view a user's details.
 #. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
+
+Create a New User
+^^^^^^^^^^^^^^
+
+.. note:: This action is only available for AD FS identity provider.
+
+#. In the **System settings** section on the **Manage** page click **Users** tile.
+#. **Users** page is shown containing a list of all users and action button **Add**.
+#. Click **Add** button.
+#. **Add user** form opens below.
+#. Fill in required fields and click **Save**.
