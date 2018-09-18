@@ -60,6 +60,11 @@ User Sync
 
 User Sync process is executed once per day and syncs all users from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
 
+User Sync
+^^^^^^^^^^^^
+
+.. TODO
+
 .. _ADFS:
 
 User management for ADFS identity provider
@@ -84,3 +89,14 @@ Create a New User
 #. Click **Add** button.
 #. **Add user** form opens below.
 #. Fill in required fields and click **Save**.
+
+Deactivate a User
+^^^^^^^^^^^^^^^^^
+
+Deactivation disables a user from logging on or performing any activity in the system. 
+
+#. Go to **Manage** > **Users**.
+#. Select edit icon in the **Actions** column for the user you wish to deactivate.
+#. **Edit User** form opens below.
+#. Change toggle button **Status**  to *OFF*.
+#. Click **Save**.
