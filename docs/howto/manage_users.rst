@@ -15,6 +15,7 @@ User management features described below depend on the selected identity provide
 * :ref:`User management for AAD identity provider<AAD>`
 * :ref:`User management for AAD identity provider<ADFS>`
 
+.. _AAD:
 
 User management for AAD identity provider
 ================================================
@@ -67,3 +68,17 @@ User Sync
 .. note:: This action is only available for AAD identity provider.
 
 User Sync process is executed once per day and syncs all users from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
+
+.. _ADFS:
+
+User management for ADFS identity provider
+================================================
+
+View All Users
+^^^^^^^^^^^^^^
+
+#. In the **System settings** section on the **Manage** page click **Users** tile.
+#. **Users** page is shown containing a list of all users and action button **Add**.
+#. In the **Actions** column there are **Details** and **Edit** icons for each user.
+#. Click **Details** icon to view a user's details.
+#. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
