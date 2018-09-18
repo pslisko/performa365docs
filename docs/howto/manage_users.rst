@@ -13,7 +13,7 @@ Users in Performa 365 can be authenticated using their Azure Active Directory (A
 User management features described below depend on the selected identity provider:
 
 * :ref:`User management for AAD identity provider<AAD>`
-* :ref:`User management for AAD identity provider<ADFS>`
+* :ref:`User management for ADFS identity provider<ADFS>`
 
 .. _AAD:
 
