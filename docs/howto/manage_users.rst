@@ -45,7 +45,7 @@ Deactivate a User
 
 Deactivation disables a user from logging on or performing any activity in the system. 
 
--- je li ovo točno za AAD?
+.. je li ovo točno za AAD?
 
 #. Go to **Manage** > **Users**.
 #. Select edit icon in the **Actions** column for the user you wish to deactivate.
