@@ -44,6 +44,7 @@ Deactivate a User
 ^^^^^^^^^^^^^^^^^
 
 Deactivation disables a user from logging on or performing any activity in the system. 
+
 -- je li ovo točno za AAD?
 
 #. Go to **Manage** > **Users**.
