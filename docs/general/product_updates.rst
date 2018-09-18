@@ -3,6 +3,22 @@
 Product Updates
 ================
 
+9/18/2018
+
+Performa 365 v2.0.9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Fixed:
+
+* Exam attempt
+   Fixed bug where users couldn't restart exam after failing when unlimited attempts were enabled.
+
+* Upcoming activities on home page
+   Activities are now properly displayed in the "Upcoming activities" section on the home page.
+   
+* Manage link visibility
+   Assignment Admins can no longer access "Manage" section of application.
+
 07/25/2018
 
 Performa 365 v2.0.8
