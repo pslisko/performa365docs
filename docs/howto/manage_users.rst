@@ -8,7 +8,7 @@ Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_ad
 User Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (AD FS) account. 
+Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (ADFS) account. 
 
 User management features described below depend on the selected identity provider:
 
@@ -26,25 +26,25 @@ View All Users
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** page is shown containing a list of all users and action button **Add**.
 #. In the **Actions** column there are **Details** and **Edit** icons for each user.
-#. Click **Details** icon to view a user's details.
+#. Click **Details** icon to view user's details.
 #. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
 
-.. note:: Availability of **Edit** action depends on your tenant configuration. For more info, contact your service provider.
 
 Update User's Information
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Go to **Manage** > **Users**.
 #. Select edit icon in the **Actions** column for the user you wish to edit.
 #. **Edit User** form opens below.
-#. Id, First Name, Last Name, Display Name and E.mail are read-only, depending on your identity provider and tenant configuration).
-#. Do the changes.
-#. Click **Save**.
+#. Id, First Name, Last Name, Display Name and E-mail are read-only.
+#. Information you can change through the form are those in the editable fields.
+#. Make changes and click **Save**.
 
 Deactivate a User
 ^^^^^^^^^^^^^^^^^
 
 Deactivation disables a user from logging on or performing any activity in the system. 
+-- je li ovo točno za AAD?
 
 #. Go to **Manage** > **Users**.
 #. Select edit icon in the **Actions** column for the user you wish to deactivate.
