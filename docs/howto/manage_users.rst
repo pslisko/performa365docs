@@ -60,10 +60,6 @@ User Sync
 
 User Sync process is executed once per day and syncs all users from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
 
-User Sync
-^^^^^^^^^^^^
-
-.. TODO
 
 .. _ADFS:
 
