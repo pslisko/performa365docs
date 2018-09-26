@@ -1,5 +1,24 @@
 .. _product_updates:
 
+Future Updates
+================
+
+9/28/2018
+
+Performa 365 v2.0.10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New feature:
+
+* Waiting list
+   Users on waiting lists will be enrolled to schedule automatically if the seats become available.
+   
+Known bugs:
+
+* Exam results
+   Learner's exam are not displayed correctly in Course > Manage > Enrolled learners sections.
+
+
 Product Updates
 ================
 
