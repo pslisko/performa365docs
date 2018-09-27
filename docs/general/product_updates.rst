@@ -16,7 +16,7 @@ New feature:
 Feature removed:
 
 * Office mix
-   Office mix type of activity will be retired due to Microsoft's announcment about  `Office Mix end of service <https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258>`_.
+   Office mix type of activity will be retired due to Microsoft's announcement about  `Office Mix end of service <https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258>`_.
    
 Known bugs:
 
