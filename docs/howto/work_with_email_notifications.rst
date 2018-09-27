@@ -14,21 +14,21 @@ Configure Email Services
 #. Current E-mail service settings are displayed. Click **Edit** to make changes.
 #. Edit form opens below. The form has two sections: *E-mail service settings* and *E-mail settings*.
 #. In the *E-mail service settings* section on the form you can change the following:
- * *E-mail service provider type* - 
- * *Server address* - 
- * *Port* - 
- * *SMTP Authentication* - 
- * *Account name* - 
- * *Password* - 
- * *Enable SSL* - 
+    * *E-mail service provider type* - 
+    * *Server address* - 
+    * *Port* - 
+    * *SMTP Authentication* - 
+    * *Account name* - 
+    * *Password* - 
+    * *Enable SSL* - 
 #. In the *E-mail settings* section on the form you can change the following:
- * *From address* - 
- * *From title* - 
- * *Reply to address* - 
- * *Bcc address* - 
- * *Default font* - 
- * *Default font size* - 
- * *Default font color* -
+    * *From address* - 
+    * *From title* - 
+    * *Reply to address* - 
+    * *Bcc address* - 
+    * *Default font* - 
+    * *Default font size* - 
+    * *Default font color* -
 #. Click **Save** to commit changes.
 
 
