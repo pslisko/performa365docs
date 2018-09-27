@@ -21,15 +21,15 @@ Configure Email Services
  * *Account name* - 
  * *Password* - 
  * *Enable SSL* - 
-#. In the *E-mail settings* section on the form you can change the following:
+ #. In the *E-mail settings* section on the form you can change the following:
  * *From address* - 
  * *From title* - 
  * *Reply to address* - 
  * *Bcc address* - 
  * *Default font* - 
  * *Default font size* - 
- * *Default font color* -  
-#. Click **Save** to commit changes.
+ * *Default font color* -
+ #. Click **Save** to commit changes.
 
 
 
