@@ -43,12 +43,12 @@ Configure Email Notifications
 #. Second column **Type** indicates whether the message is sent automatically:
       * *on event* (e.g., when learners successfully complete a course, they will be sent an e-mail message informing them the course has been finished. Additional items can be included in the message, such as certificate of completion.)
       * *on schedule* (e.g. learners can be reminded of an upcoming schedule by the message sent on selected day at specified time).
-#. *Status* column contains checkboxes which show that the corresponding notification is enabled/disabled.
-#. Clicking on *Edit* icon in the last column *Actions* opens a form below the notifications list. Each message can be customized by changing the fields in this form.
-#. First two fields, *E-mail notification* and *Type* are read only.
-#. *Subject* field is required and can be customized. The text in this field will be rendered as subject of your e-mail message.
-#. *Cc* is optional. E-mail addresses listed here will receive a copy of this email message.
-#. *Body* is required and can be customized. Placeholders (variables in curly brackets such as {{FirstName}}) should be left inside the body of the message. 
+#. **Status** column contains checkboxes which show that the corresponding notification is enabled/disabled.
+#. Clicking on *Edit* icon in the last column **Actions** opens a form below the notifications list. Each message can be customized by changing the fields in this form.
+#. First two fields, **E-mail notification** and **Type** are read only.
+#. **Subject** field is required and can be customized. The text in this field will be rendered as subject of your e-mail message.
+#. **Cc** is optional. E-mail addresses listed here will receive a copy of this email message.
+#. **Body** is required and can be customized. Placeholders (variables in curly brackets such as {{FirstName}}) should be left inside the body of the message. 
 #. **Sending type** has three options for sending messages on schedule. Depending on the option chosen, time, day of the week or date can be specified as well in the following steps.
 #. **Number of retries in case of failure** is required. It is set to 3 by default but can be changed if needed.
 #. Setting **Status** to *ON* will enable message which means it will be sent on event/schedule. Setting it to *OFF* disables the message from being sent.
