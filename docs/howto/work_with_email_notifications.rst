@@ -14,11 +14,11 @@ Configure Email Services
 #. Current E-mail service settings are displayed. Click **Edit** to make changes.
 #. Edit form opens below. In the *E-mail service settings* section on the form you can change the following:
 
-##. *E-mail service provider type* - 
+  #. *E-mail service provider type* - 
 
-##. *Server address* - 
+  #. *Server address* - 
 
-##. *Port* - 
+  #. *Port* - 
 
 
 
