@@ -51,7 +51,7 @@ Configure Email Notifications
 #. **Body** is required and can be customized. Placeholders (variables in curly brackets such as {{FirstName}}) should be left inside the body of the message. 
 #. **Sending type** has three options for sending messages on schedule. Depending on the option chosen, time, day of the week or date can be specified as well in the following steps.
 #. **Number of retries in case of failure** is required. It is set to 3 by default but can be changed if needed.
-#. Setting **Status** to *ON* will enable message which means it will be sent on event/schedule. Setting it to *OFF* disables the message from being sent.
+#. Setting **Status** to *ON* will enable message which means it will be sent on event/schedule. Setting it to *OFF* disables the message from being sent. 
 
 View Email Notifications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
