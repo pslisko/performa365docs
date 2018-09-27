@@ -61,4 +61,9 @@ Configure Email Notifications
 View Email Notifications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-...
+#. In the **System settings** section on the **Manage** page click **E-mail notifications** tile.
+#. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
+#. Click on **E-mail notification history**.
+#. List of all E-mail notifications that have been sent is displayed below. 
+#. For each message sent the following data is displayed in the list: Name (type) of message, recepient's e-mail address, status and time when the message was sent.
+#. Clicking on *Details* icon in the **Actions** column enables you to see complete body of the message sent.
