@@ -13,6 +13,10 @@ New feature:
 * Waiting list
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
+* GUI updates
+   Course activity tiles will contain icons and information whether the activity is required, optional, skipped or overdue.
+   
+   
 Feature removed:
 
 * Office mix
