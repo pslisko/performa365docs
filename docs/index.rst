@@ -40,6 +40,7 @@ To learn how to do a specific task, such as use the catalog or work with courses
    howto/work_with_email_notification
    howto/manage_learning_periods
    howto/manage_business_entities
+   howto/manage_email_notifications
    howto/manage_locations
    howto/manage_business_areas
    howto/manage_document_templates
