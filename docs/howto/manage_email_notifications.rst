@@ -56,8 +56,8 @@ Configure E-mail Notifications
 #. **Number of retries in case of failure** is required. It is set to 3 by default but can be changed if needed.
 #. Setting **Status** to *ON* will enable message which means it will be sent on event/schedule. Setting it to *OFF* disables the message from being sent. 
 
-E-mail Notifications
-^^^^^^^^^^^^^^^^^^^^^^
+E-mail Notifications Messages
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *N1.2 Course enrollment notification*
 
