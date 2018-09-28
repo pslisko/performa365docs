@@ -39,9 +39,10 @@ This procedure applies to external users, typically external trainers for your o
 Update a User's Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To update a user's basic information (first name, last name, display name or e-mail), update these information in AAD. These changes will be propagated periodically from AAD to Performa 365, using the automatic User Sync procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
+To update a user's basic information (first name, last name, display name or e-mail), update these information in AAD. These changes will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
 To update additional user's information, follow the procedure below:
+
 #. Navigate to **Manage** > **Users**.
 #. Select edit icon in the **Actions** column for the user you wish to update.
 #. **Edit User** form opens below. In this form, only the information which are not synced from the AAD can be changed.
