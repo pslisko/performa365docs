@@ -77,6 +77,8 @@ Variables that can be used in the body of this e-mail message are:
 	* {{FirstName}} - recipient's first name
 	* {{EducationName}} - name of the cancelled course
 	* {{DisenrollmentReason}} - explanation why the course had been cancelled
+
+Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally display text. If the disenrollment reason had been given, it will be shown in the message. If the disenrollment reason had not been defined, message within the region will be omitted.
    
 *N1.5 Schedule change notification*
 
@@ -92,7 +94,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{NEWStartTime}} - new start time
 	* {{Location}} - initial location
 	* {{NEWLocation}} - new location
-   
+
+Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationChange are used to conditionally display text. E-mail message will contain text in those regions depending on what has been changed: schedule date/time, location or both. 
+
 *N1.8 Schedule reminder*
 
 This message is sent to learners to remind them of an upcoming schedule.
@@ -113,6 +117,8 @@ Variables that can be used in the body of this e-mail message are:
 	* {{FirstName}} - learner's first name
 	* {{EducationName}} - name of the course
 	* {{DueDate}} - the date on which the course is expected to be completed
+	
+Region #educations- #end is used to display all unfinished courses and . if there is more than one course 
    
 *N1.12 Notification of schedule assignment to the lecturer*
 
