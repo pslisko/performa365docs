@@ -13,27 +13,27 @@ Configure E-mail Service
 #. Click on **E-mail service settings**.
 #. Current E-mail service settings are displayed. Click **Edit** to make changes.
 #. Edit form opens below. The form has two sections: *E-mail service settings* and *E-mail settings*.
-#. In the *E-mail service settings* section on the form you can change the following:
+#. In the *E-mail service settings* section of the form, change the following:
 
-    * *E-mail service provider* - currently only SMTP supported
-    * *Server address* - IP or FQDN address of the e-mail server (service)
-    * *Port* - Port used by the e-mail service, for SMTP typically 25 or 587 or 465
-    * *SMTP Authentication* - ON/OFF: turn ON if your SMTP service required authentication
-    * *Account name* - if SMTP authentication turned ON, type the account name used for SMTP authentication
-    * *Password* - if SMTP authentication turned ON, type the password used for SMTP authentication
+    * *E-mail service type* - Currently only is SMTP supported.
+    * *Server address* - IP or FQDN address of the e-mail server (service).
+    * *Port* - Port used by the e-mail service, for SMTP typically 25 or 587 or 465.
+    * *SMTP Authentication* - ON/OFF: turn ON if your SMTP service required authentication.
+    * *Account name* - If SMTP authentication turned ON, type the account name used for SMTP authentication.
+    * *Password* - If SMTP authentication turned ON, type the password used for SMTP authentication.
     * *Enable SSL* - ON/OFF: turn ON if your SMTP service requires SSL connection
     
-#. In the *E-mail settings* section on the form you can change the following:
+#. In the *E-mail settings* section fn the form, change the following:
 
-    * *From address* - 
-    * *From title* - 
-    * *Reply to address* - 
-    * *Bcc address* - 
-    * *Default font* - 
-    * *Default font size* - 
-    * *Default font color* -
+    * *From address* - E-mail from address which will be used for sending e-mail notifications, for example: performa365@essperta.com.
+    * *From title* - E-mail from address "friendly name", for example: Performa 365. E-mail receiver will seethe from field as: Performa 365 (performa365@essperta.com). This field is optional.
+    * *Reply-to address* - If "from address" does not have a corresponding mailbox, use can use the reply-to address to specify where e-mail will be sent if user replies to any notification received from the system. This field is optional.
+    * *Bcc* - Bcc address can be used it you want all send notification to be sent to a specific mailbox. Typically used as an additional repository of all sent e-mails. This field is optional.
+    * *Default font name* - A font to be used in all e-mail notifications. For example: Calibri.
+    * *Default font size* - Font size to be used in all e-mail notifications sent. For example: 14.
+    * *Default font color* - Font color to be used in all e-mail notifications sent. For example: Black.
     
-#. Click **Save** to commit changes.
+#. Click **Save** to save changes.
 
 
 Configure E-mail Notifications
