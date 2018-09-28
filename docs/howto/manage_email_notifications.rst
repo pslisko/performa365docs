@@ -1,11 +1,11 @@
 .. _email_notifications:
 
-Manage Email Notifications
+Manage E-mail Notifications
 =============================
 
 Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_administrator>`
 
-Configure Email Services
+Configure E-mail Service
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. In the **System settings** section on the **Manage** page click **E-mail notifications** tile.
@@ -36,14 +36,14 @@ Configure Email Services
 #. Click **Save** to commit changes.
 
 
-Configure Email Notifications
+Configure E-mail Notifications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. In the **System settings** section on the **Manage** page click **E-mail notifications** tile.
 #. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
 #. Click on **E-mail notification settings**.
 #. List of all available E-mail notifications is displayed below.
-#. The leftmost column **E-mail notifications** contains the name of the notice. This name cannot be changed.
+#. The leftmost column **E-mail notifications** contains the name of the notification. This name cannot be changed.
 #. Second column **Type** indicates whether the message is sent automatically:
 
       * *on event* (e.g., when learners successfully complete a course, they will be sent an e-mail message informing them the course has been finished. Additional items can be included in the message, such as certificate of completion.)
@@ -58,8 +58,8 @@ Configure Email Notifications
 #. **Number of retries in case of failure** is required. It is set to 3 by default but can be changed if needed.
 #. Setting **Status** to *ON* will enable message which means it will be sent on event/schedule. Setting it to *OFF* disables the message from being sent. 
 
-View Email Notifications
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+View E-mail Notification History
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. In the **System settings** section on the **Manage** page click **E-mail notifications** tile.
 #. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
