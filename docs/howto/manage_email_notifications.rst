@@ -5,15 +5,15 @@ Manage E-mail Notifications
 
 Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_administrator>`
 
+To manage e-mail notifications, navigate to the **Manage** page and select the **E-mail notifications** tile in the **System settings**. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
+
+
 Configure E-mail Service
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. In the **System settings** section on the **Manage** page click **E-mail notifications** tile.
-#. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
-#. Click on **E-mail service settings**.
-#. Current E-mail service settings are displayed. Click **Edit** to make changes.
-#. Edit form opens below. The form has two sections: *E-mail service settings* and *E-mail settings*.
-#. In the *E-mail service settings* section of the form, change the following:
+Current E-mail service settings are displayed. Click **Edit** to make changes:
+
+*E-mail service settings* section:
 
     * *E-mail service type* - Currently only is SMTP supported.
     * *Server address* - IP or FQDN address of the e-mail server (service).
@@ -23,7 +23,7 @@ Configure E-mail Service
     * *Password* - If SMTP authentication turned ON, type the password used for SMTP authentication.
     * *Enable SSL* - ON/OFF: turn ON if your SMTP service requires SSL connection
     
-#. In the *E-mail settings* section fn the form, change the following:
+*E-mail settings* section:
 
     * *From address* - E-mail from address which will be used for sending e-mail notifications, for example: performa365@essperta.com.
     * *From title* - E-mail from address "friendly name", for example: Performa 365. E-mail receiver will seethe from field as: Performa 365 (performa365@essperta.com). This field is optional.
@@ -33,8 +33,6 @@ Configure E-mail Service
     * *Default font size* - Font size to be used in all e-mail notifications sent. For example: 14.
     * *Default font color* - Font color to be used in all e-mail notifications sent. For example: Black.
     
-#. Click **Save** to save changes.
-
 
 Configure E-mail Notifications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
