@@ -15,13 +15,13 @@ Configure E-mail Service
 #. Edit form opens below. The form has two sections: *E-mail service settings* and *E-mail settings*.
 #. In the *E-mail service settings* section on the form you can change the following:
 
-    * *E-mail service provider type* - 
-    * *Server address* - 
-    * *Port* - 
-    * *SMTP Authentication* - 
-    * *Account name* - 
-    * *Password* - 
-    * *Enable SSL* - 
+    * *E-mail service provider* - currently only SMTP supported
+    * *Server address* - IP or FQDN address of the e-mail server (service)
+    * *Port* - Port used by the e-mail service, for SMTP typically 25 or 587 or 465
+    * *SMTP Authentication* - ON/OFF: turn ON if your SMTP service required authentication
+    * *Account name* - if SMTP authentication turned ON, type the account name used for SMTP authentication
+    * *Password* - if SMTP authentication turned ON, type the password used for SMTP authentication
+    * *Enable SSL* - ON/OFF: turn ON if your SMTP service requires SSL connection
     
 #. In the *E-mail settings* section on the form you can change the following:
 
