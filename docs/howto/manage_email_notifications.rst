@@ -118,7 +118,7 @@ Variables that can be used in the body of this e-mail message are:
 	* {{EducationName}} - name of the course
 	* {{DueDate}} - the date on which the course is expected to be completed
 	
-Region #educations- #end is used to display all unfinished courses and . if there is more than one course 
+If there is more than one unfinished course in user's learning plan, all courses and their belonging due dates will be listed inside region #educations- #end.
    
 *N1.12 Notification of schedule assignment to the lecturer*
 
