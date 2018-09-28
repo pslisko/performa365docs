@@ -20,7 +20,21 @@ User management features described below depend on the selected identity provide
 User management for AAD identity provider
 ================================================
 
-When AAD identity provider is used, 
+When AAD identity provider is used, users for Performa 365 are mostly managed through AAD.
+
+Add a New User
+^^^^^^^^^^^^^^
+
+#. To add a new user to Performa 365, simply add the user to the "Learners" group in AAD. Exact name of the group which corresponds to the learner role in AAD can be obtained through your system admin. If additional roles are needed, just add the same user account to additional groups.
+#. To enforce this change, run user sync manully by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
+
+Deactivate a User
+^^^^^^^^^^^^^^^^^
+
+Deactivation disables a user from logging on or performing any activity in the system. To deactivate an existing user, simply remove the user from all Performa 365-related user groups in AAD.
+
+The changes will be propagated from AAD to Performa 365 automatically, using the User Sync procedure. Alternativelly, you can run the user sync manually to enforce change immediately: click the **Start user sync** tile in the **System settings** section of the **Manage** page.
+
 
 User Sync
 ^^^^^^^^^^^^
@@ -46,19 +60,6 @@ Update User's Information
 #. User's data which are automatically synced from the AAD areare read-only.
 #. Information you can change through the form are those in the editable fields.
 #. Make changes and click **Save**.
-
-Deactivate a User
-^^^^^^^^^^^^^^^^^
-
-Deactivation disables a user from logging on or performing any activity in the system. 
-
-.. je li ovo točno za AAD?
-
-#. Go to **Manage** > **Users**.
-#. Select edit icon in the **Actions** column for the user you wish to deactivate.
-#. **Edit User** form opens below.
-#. Change toggle button **Status**  to *OFF*.
-#. Click **Save**.
 
 
 .. _ADFS:
