@@ -8,7 +8,7 @@ Application roles needed to manage learning users: :ref:`Tenant Admin <tenant_ad
 User Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory Federation Services (ADFS) account. 
+Users in Performa 365 can be authenticated using their Azure Active Directory (AAD) account or Active Directory account via Federation Services (ADFS). 
 
 User management features described below depend on the selected identity provider:
 
@@ -20,23 +20,30 @@ User management features described below depend on the selected identity provide
 User management for AAD identity provider
 ================================================
 
+When AAD identity provider is used, 
+
+User Sync
+^^^^^^^^^^^^
+
+.. note:: This action is only available for AAD identity provider.
+
+User Sync process is executed once per day and syncs all users from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
+
 View All Users
 ^^^^^^^^^^^^^^
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** page is shown containing a list of all users and action button **Add**.
 #. In the **Actions** column there are **Details** and **Edit** icons for each user.
-#. Click **Details** icon to view user's details.
-#. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
-
+#. Click **Details** icon to view additional details, such as user's roles and dates of the first import (from AAD) and last modification.
 
 Update User's Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Go to **Manage** > **Users**.
-#. Select edit icon in the **Actions** column for the user you wish to edit.
-#. **Edit User** form opens below.
-#. Id, First Name, Last Name, Display Name and E-mail are read-only.
+#. Select edit icon in the **Actions** column of the user you wish to edit.
+#. **Edit User** form opens below. In this form, only the information which are not synced from the AAD can be changes.
+#. User's data which are automatically synced from the AAD areare read-only.
 #. Information you can change through the form are those in the editable fields.
 #. Make changes and click **Save**.
 
@@ -52,13 +59,6 @@ Deactivation disables a user from logging on or performing any activity in the s
 #. **Edit User** form opens below.
 #. Change toggle button **Status**  to *OFF*.
 #. Click **Save**.
-
-User Sync
-^^^^^^^^^^^^
-
-.. note:: This action is only available for AAD identity provider.
-
-User Sync process is executed once per day and syncs all users from the mapped user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and email, will be reflected in Performa 365 as well.
 
 
 .. _ADFS:
