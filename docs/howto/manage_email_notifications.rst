@@ -64,17 +64,17 @@ E-mail Notifications
 This notification is sent to learners when they have been administratively enrolled to a course.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - recepient's first name
-	* {{EducationName}} - name of the course the recepient is enrolled to
+	* {{FirstName}} - recipient's first name
+	* {{EducationName}} - name of the course the recipient is enrolled to
 	* {{AssignmentDueDate}} - the date on which the course is expected to be completed
-	* {{EnrollmentReason}} - explanation why the recepient was enrolled to the course
+	* {{EnrollmentReason}} - explanation why the recipient was enrolled to the course
    
 *N1.3 Course cancellation notification*
 
 This notification is sent to learners when the course they were enrolled to had been cancelled.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - recepient's first name
+	* {{FirstName}} - recipient's first name
 	* {{EducationName}} - name of the cancelled course
 	* {{DisenrollmentReason}} - explanation why the course had been cancelled
    
@@ -83,7 +83,7 @@ Variables that can be used in the body of this e-mail message are:
 If there are any changes in schedule start time, start date or location, this notification will be sent to both learners and lectures.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - recepient's first name
+	* {{FirstName}} - recipient's first name
 	* {{ActivityName}} - activity related to schedule change
 	* {{EducationName}} - course name
 	* {{StartDate}} - initial start date
