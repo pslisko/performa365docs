@@ -87,7 +87,7 @@ Variables that can be used in the body of this e-mail message are:
 	* {{ActivityName}} - activity related to schedule change
 	* {{EducationName}} - course name
 	* {{StartDate}} - initial start date
-   * {{StartTime}} - initial start time
+	* {{StartTime}} - initial start time
 	* {{NEWStartDate}} - new start date 
 	* {{NEWStartTime}} - new start time
 	* {{Location}} - initial location
