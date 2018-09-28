@@ -29,7 +29,7 @@ This procedure applies to internal users, typically employees or subcontractors 
 
 To add a new internal user to Performa 365, simply add the user to user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
 
-New users will be propagated periodically from AAD to Performa 365, using the automatic User Sync procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
+New users will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
 Add a New User (External)
 ^^^^^^^^^^^^^^
@@ -58,6 +58,8 @@ View All Users
 #. Navigate to **Manage** > **Users**.
 #. **Users** page is shown containing a list with all users and action button **Add**.
 #. Click the **Details** icon in the **Actions** column to view additional details, such as user's roles and dates of the first import (from AAD) and last modification.
+
+.. _UserSync:
 
 User Sync
 ^^^^^^^^^^^^
