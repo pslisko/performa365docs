@@ -22,12 +22,19 @@ User management for AAD identity provider
 
 When AAD identity provider is used, users for Performa 365 are mostly managed through AAD.
 
-Add a New User
+Add a New User (Internal)
 ^^^^^^^^^^^^^^
 
-To add a new user to Performa 365, simply add the user to user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
+This procedure applies to internal users, typically employees or subcontractors of your company.
+
+To add a new internal user to Performa 365, simply add the user to user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
 
 New users will be propagated periodically from AAD to Performa 365, using the automatic User Sync procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
+
+Add a New User (External)
+^^^^^^^^^^^^^^
+
+This procedure applies to external users, typically external trainers for your organization or external attendees of trainings your organization is providing.
 
 Update a User's Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
