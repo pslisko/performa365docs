@@ -17,12 +17,12 @@ User management features described below depend on the selected identity provide
 .. _AAD:
 
 User management for AAD identity provider
-================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When AAD identity provider is used, users for Performa 365 are mostly managed through AAD.
 
 Add a New User (Internal)
-^^^^^^^^^^^^^^
+******************************
 
 This procedure applies to internal users, typically employees or subcontractors of your company.
 
@@ -31,14 +31,14 @@ To add a new internal user to Performa 365, simply add the user to the user grou
 New users will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
 Add a New User (External)
-^^^^^^^^^^^^^^
+*****************************
 
 This procedure applies to external users, typically external trainers for your organization or external attendees of trainings your organization is providing.
 
 To add a new external user to Performa 365, create a new `guest user in your AAD <https://docs.microsoft.com/en-us/azure/active-directory/b2b/user-properties>`_. Guest user can provide their existing Microsoft account or you can create a new Microsoft account for them. Once this account is added to your AAD as guest user, just add this user to the user group in AAD which corresponds to the **Learner** role and potentically additional groups/roles.
 
 Update a User's Information
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+****************************
 
 To update a user's basic information (first name, last name, display name or e-mail), update these information in AAD. These changes will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
@@ -50,12 +50,12 @@ To update additional user's information, follow the procedure below:
 #. Make changes and click **Save**.
 
 Deactivate a User
-^^^^^^^^^^^^^^^^^
+*******************
 
 Deactivation disables a user from logging on or performing any activity in the system. To deactivate an existing user, simply remove this user from all Performa 365-related user groups in AAD.
 
 View All Users
-^^^^^^^^^^^^^^
+*******************
 
 #. Navigate to **Manage** > **Users**.
 #. **Users** page is shown containing a list with all users.
@@ -64,7 +64,7 @@ View All Users
 .. _UserSync:
 
 User Sync
-^^^^^^^^^^^^
+**************
 
 User Sync procedure is executed every hour to synchronize all users from related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and e-mail address, will be synchronized to Performa 365.
 
@@ -72,12 +72,12 @@ User Sync procedure is executed every hour to synchronize all users from related
 .. _ADFS:
 
 User management for ADFS identity provider
-================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When ADFS identity provider is used, users for Performa 365 are mostly managed through Performa 365 user interface.
 
 Add a New User
-^^^^^^^^^^^^^^
+*******************
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** page is shown containing a list of all users and action button **Add**.
@@ -86,7 +86,7 @@ Add a New User
 #. Fill in required fields and click **Save**.
 
 Update a User's Information
-^^^^^^^^^^^^^^
+******************************
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** page is shown containing a list of all users.
@@ -95,7 +95,7 @@ Update a User's Information
 #. Make changes and click **Save**.
 
 Deactivate a User
-^^^^^^^^^^^^^^^^^
+*********************
 
 Deactivation disables a user from logging on or performing any activity in the system. 
 
@@ -106,7 +106,7 @@ Deactivation disables a user from logging on or performing any activity in the s
 #. Click **Save**.
 
 View All Users
-^^^^^^^^^^^^^^
+**********************
 
 #. Navigate to **Manage** > **Users**.
 #. **Users** page is shown containing a list with all users.
