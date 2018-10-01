@@ -27,7 +27,7 @@ Add a New User (Internal)
 
 This procedure applies to internal users, typically employees or subcontractors of your company.
 
-To add a new internal user to Performa 365, simply add the user to user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
+To add a new internal user to Performa 365, simply add the user to the user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
 
 New users will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
@@ -35,6 +35,8 @@ Add a New User (External)
 ^^^^^^^^^^^^^^
 
 This procedure applies to external users, typically external trainers for your organization or external attendees of trainings your organization is providing.
+
+To add a new external user to Performa 365, create a new guest user in your AAD. Then, follow the same procedure as for the internal user - add the new user to user groups corresponding to desired Performa 365 roles (**Learner** role at minimum).
 
 Update a User's Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -65,7 +67,7 @@ View All Users
 User Sync
 ^^^^^^^^^^^^
 
-User Sync procedure is executed every hour to sync all users from the related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and e-mail address, will be synchronized to Performa 365.
+User Sync procedure is executed every hour to synchronize all users from related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and e-mail address, will be synchronized to Performa 365.
 
 
 .. _ADFS:
