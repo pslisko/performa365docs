@@ -111,4 +111,4 @@ View All Users
 
 #. Navigate to **Manage** > **Users**.
 #. **Users** page is shown containing a list with all users.
-#. Click the **Details** icon in the **Actions** column to view additional details, such as user's roles and dates of the first import (from AAD) and last modification.
+#. Click the **Details** icon in the **Actions** column to view additional details, such as user's roles and dates of the first import  and last modification.
