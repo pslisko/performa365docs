@@ -59,7 +59,7 @@ View All Users
 ^^^^^^^^^^^^^^
 
 #. Navigate to **Manage** > **Users**.
-#. **Users** page is shown containing a list with all users and action button **Add**.
+#. **Users** page is shown containing a list with all users.
 #. Click the **Details** icon in the **Actions** column to view additional details, such as user's roles and dates of the first import (from AAD) and last modification.
 
 .. _UserSync:
@@ -75,25 +75,25 @@ User Sync procedure is executed every hour to synchronize all users from related
 User management for ADFS identity provider
 ================================================
 
-View All Users
+When ADFS identity provider is used, users for Performa 365 are mostly managed through Performa 365 user interface.
+
+Add a New User
 ^^^^^^^^^^^^^^
-
-#. In the **System settings** section on the **Manage** page click **Users** tile.
-#. **Users** page is shown containing a list of all users and action button **Add**.
-#. In the **Actions** column there are **Details** and **Edit** icons for each user.
-#. Click **Details** icon to view a user's details.
-#. **Details** form is displayed below containing information about user's external identifier, application roles assigned, first import date and last modified date.
-
-Create a New User
-^^^^^^^^^^^^^^
-
-.. note:: This action is only available for AD FS identity provider.
 
 #. In the **System settings** section on the **Manage** page click **Users** tile.
 #. **Users** page is shown containing a list of all users and action button **Add**.
 #. Click **Add** button.
 #. **Add user** form opens below.
 #. Fill in required fields and click **Save**.
+
+Update a User's Information
+^^^^^^^^^^^^^^
+
+#. In the **System settings** section on the **Manage** page click **Users** tile.
+#. **Users** page is shown containing a list of all users.
+#. Select edit icon in the **Actions** column for the user you wish to update.
+#. **Edit User** form opens below.
+#. Make changes and click **Save**.
 
 Deactivate a User
 ^^^^^^^^^^^^^^^^^
@@ -105,3 +105,10 @@ Deactivation disables a user from logging on or performing any activity in the s
 #. **Edit User** form opens below.
 #. Change toggle button **Status**  to *OFF*.
 #. Click **Save**.
+
+View All Users
+^^^^^^^^^^^^^^
+
+#. Navigate to **Manage** > **Users**.
+#. **Users** page is shown containing a list with all users.
+#. Click the **Details** icon in the **Actions** column to view additional details, such as user's roles and dates of the first import (from AAD) and last modification.
