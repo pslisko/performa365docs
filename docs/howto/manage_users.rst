@@ -36,7 +36,7 @@ Add a New User (External)
 
 This procedure applies to external users, typically external trainers for your organization or external attendees of trainings your organization is providing.
 
-To add a new external user to Performa 365, create a new guest user in your AAD. Then, follow the same procedure as for the internal user - add the new user to user groups corresponding to desired Performa 365 roles (**Learner** role at minimum).
+To add a new external user to Performa 365, create a new `guest user in your AAD <https://docs.microsoft.com/en-us/azure/active-directory/b2b/user-properties>`_. Guest user can provide their existing Microsoft account or you can create a new Microsoft account for them. Once this account is added to your AAD as guest user, just add this user to the user group in AAD which corresponds to the **Learner** role and potentically additional groups/roles.
 
 Update a User's Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
