@@ -11,11 +11,7 @@ New:
 * Waiting list
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
-..
 
-.
-
-..
 
 
 Product Updates
