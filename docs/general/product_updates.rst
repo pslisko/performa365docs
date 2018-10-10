@@ -3,7 +3,7 @@
 Future Updates
 ================
 
-Performa 365 v2.0.1
+Performa 365 v2.0.11
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 New:
@@ -11,6 +11,7 @@ New:
 * Waiting list
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
+..
 
 
 Product Updates
@@ -45,7 +46,8 @@ Fixed:
 * Exam results
    Learner's exam are not displayed correctly in Course > Manage > Enrolled learners sections.
    
-   
+..
+
 
 9/18/2018
 
@@ -63,6 +65,8 @@ Fixed:
 * Manage link visibility
    Assignment Admins can no longer access "Manage" section of application.
 
+..
+
 07/25/2018
 
 Performa 365 v2.0.8
@@ -72,6 +76,8 @@ Fixed:
 
 * Email notifications
    If a certificate is created after successful course completion, auto-generated email sent to users will remind them that the certificate can be found on their user profile.
+
+..
 
 07/10/2018
 
@@ -85,6 +91,9 @@ New:
 * Email notifications
    Email is sent to administratively enrolled/disenrolled users. If a course has due date, administratively enrolled learners will receive an email as a reminder. Learners who are self-enrolled in a course will receive email notifications as a reminder for upcoming activities.
 
+..
+
+05/14/18
 
 Performa 365 v2.0.6
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -93,6 +102,8 @@ New:
 
 * New report added
    Learners' test results are now displayed in new report. 
+
+..
 
 04/24/18
 
@@ -118,6 +129,7 @@ Changed:
 * Health Analyzer Update
    Health Analyzer configured to check User Sync.
 
+..
 
 11/28/17
 
@@ -132,6 +144,7 @@ Fixed:
    Fixed bug where unenrolled education has enrolled status displayed on education tile.
 
 
+..
 
 11/14/17
 
@@ -150,7 +163,7 @@ Fixed:
 * Edit education - current image display
     Added options for displaying current image and uploading new one.
 
-
+..
 
 10/9/17
 
@@ -162,6 +175,7 @@ Fixed:
 * YouTube links
     Fixed YouTube links on video activities.
 
+..
 
 9/22/17
 
