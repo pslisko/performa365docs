@@ -3,9 +3,7 @@
 Future Updates
 ================
 
-9/28/2018
-
-Performa 365 v2.0.10
+Performa 365 v2.0.1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 New:
@@ -13,10 +11,21 @@ New:
 * Waiting list
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
+
+
+Product Updates
+================
+
+10/10/2018
+
+Performa 365 v2.0.10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New:
+   
 * GUI updates
    Course activity tiles will contain icons and information if the activity is required, optional, skipped or overdue.
    
-
 Improved:
 
 * Documentation - E-mail Notifications
@@ -25,21 +34,18 @@ Improved:
 * Documentation - User Management
    Detailed documentation about user management for both supported auth providers (Azure AD and ADFS), including details on external user management 
 
-
 Removed:
 
 * Office mix
    Office mix type of activity will be retired due to Microsoft's announcement about  `Office Mix end of service <https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258>`_.
    
-   
-Known issues:
+
+Fixed:
 
 * Exam results
    Learner's exam are not displayed correctly in Course > Manage > Enrolled learners sections.
-
-
-Product Updates
-================
+   
+   
 
 9/18/2018
 
