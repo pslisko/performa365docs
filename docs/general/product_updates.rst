@@ -12,7 +12,9 @@ New:
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
 ..
+
 .
+
 ..
 
 
