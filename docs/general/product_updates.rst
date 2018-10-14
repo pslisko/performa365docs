@@ -12,8 +12,6 @@ New:
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
 
-
-
 Product Updates
 ================
 
@@ -25,8 +23,11 @@ Performa 365 v2.0.10
 New:
    
 * GUI updates
-   Course activity tiles will contain icons and information if the activity is required, optional, skipped or overdue.
-   
+   Course activity tiles now contain icons and information if the activity is required, optional, skipped or overdue.
+
+* RPT-ER01 Course Rating report
+   Report to show ratings for a selected course.
+
 Improved:
 
 * Documentation - E-mail Notifications
