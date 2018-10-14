@@ -8,7 +8,7 @@ Performa 365 v2.0.11
 
 New:
 
-* Waiting list
+* Waiting list automatic enrollment
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
 
