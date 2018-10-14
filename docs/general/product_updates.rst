@@ -22,30 +22,24 @@ Performa 365 v2.0.10
 
 New:
    
-* GUI updates
-   Course activity tiles now contain icons and information if the activity is required, optional, skipped or overdue.
-
 * RPT-ER01 Course Rating report
    Report to show ratings for a selected course.
 
 
 Improved:
 
+* Course activity tile
+   Course activity tile now shows if the activity is required, optional, skipped or overdue.
+
 * Survey results
    Survey results can now be easily accessed from actions in the activity management (Course Manage -> Activities).
 
 * Documentation - E-mail Notifications
-   Detailed documentation about e-mail notification service configuration and e-mail notification templates 
+   Detailed documentation about e-mail notification service configuration and e-mail notification templates. 
 
 * Documentation - User Management
-   Detailed documentation about user management for both supported auth providers (Azure AD and ADFS), including details on external user management 
+   Detailed documentation about user management for both supported auth providers (Azure AD and ADFS), including details on external user management.
 
-
-Removed:
-
-* Office mix
-   Office mix type of activity will be retired due to Microsoft's announcement about  `Office Mix end of service <https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258>`_.
-   
 
 Fixed:
 
@@ -54,7 +48,13 @@ Fixed:
    
 * Survey opening
    Problem with opening a survey if survey title contains special characters, such as +.
-   
+
+
+Removed:
+
+* Office mix
+   Office mix activityhas been removed  due to Microsoft's announcement about  `Office Mix end of service <https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258>`_.
+      
 ..
 
 
