@@ -15,7 +15,7 @@ New:
 Product Updates
 ================
 
-10/10/2018
+10/14/2018
 
 Performa 365 v2.0.10
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,13 +28,18 @@ New:
 * RPT-ER01 Course Rating report
    Report to show ratings for a selected course.
 
+
 Improved:
+
+* Survey results
+   Survey results can now be easily accessed from actions in the activity management (Course Manage -> Activities).
 
 * Documentation - E-mail Notifications
    Detailed documentation about e-mail notification service configuration and e-mail notification templates 
 
 * Documentation - User Management
    Detailed documentation about user management for both supported auth providers (Azure AD and ADFS), including details on external user management 
+
 
 Removed:
 
@@ -46,6 +51,9 @@ Fixed:
 
 * Exam results
    Learner's exam are not displayed correctly in Course > Manage > Enrolled learners sections.
+   
+* Survey opening
+   Problem with opening a survey if survey title contains special characters, such as +.
    
 ..
 
