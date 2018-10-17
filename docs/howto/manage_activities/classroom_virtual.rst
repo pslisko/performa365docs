@@ -77,6 +77,8 @@ Add a Schedule
 #. Fill in all required fields. Required fields are marked with asterisk.
 #. Enter start and finish date by clicking on calendar icon of the datetime picker control. Keep in mind that start date cannot be greater than end date. 
 #. Choose the **Location** from the drop-down list. To be able to choose location from the list, locations first must be defined by the :ref:`Education Process Administrator <education_process_administrator>`. To learn more go to :ref:`How to > Manage Locations <manage_locations>`.
+#. When you select a location, the field **Maximum capacity (learners)** will be filled automatically with the number of available seats defined for that location.
+#. If you select an organization from the dropdown list of the field **Reserved for**, that schedule will only be visible to the learners from that organization. All other learners enrolled in the course will be unable to either see schedule details or enroll in that schedule.
 #. When adding a schedule for virtual classroom type of activity, you will also need to provide **URL to connect**.
 #. Click **Next** to continue to the next step.
 #. Schedule's instructors are listed in the second step. Enter lecture duration for each instructor. 
