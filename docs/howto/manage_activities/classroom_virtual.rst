@@ -12,13 +12,12 @@ Application roles needed to work with activities:
 
 ..
 About
-**********
+^^^^^^^
 
 This feature is used to manage schedules for classes which take place in physical or virtual classrooms. 
 
 Add a Classroom /Virtual Classroom 
-********************************************
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to add activities to.
 #. You will be redirected to the course page. 
@@ -36,7 +35,7 @@ Add a Classroom /Virtual Classroom
 #. Click **Finish** to create the activity.
 
 Edit a Classroom /Virtual Classroom 
-**********************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
 #. Choose **Activities** from the dropdown menu.
@@ -52,7 +51,7 @@ Edit a Classroom /Virtual Classroom
 .. note:: Changing the status of an activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in the course's activity list.
 
 Delete a Classroom /Virtual Classroom
-*************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
 #. Choose **Activities** from the dropdown menu.
@@ -63,8 +62,7 @@ Delete a Classroom /Virtual Classroom
 
 ..
 Schedules
-***************
-***************
+^^^^^^^^^^^^^^^^^^^^^
 
 Add a Schedule
 ****************
