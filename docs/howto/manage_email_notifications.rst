@@ -59,6 +59,8 @@ Configure E-mail Notifications
 E-mail Notifications Messages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. _N1.2:
+
 *N1.2 Course enrollment notification*
 
 This notification is sent to learners when they have been administratively enrolled to a course.
@@ -68,7 +70,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{EducationName}} - name of the course the recipient is enrolled to
 	* {{AssignmentDueDate}} - the date on which the course is expected to be completed
 	* {{EnrollmentReason}} - explanation why the recipient was enrolled to the course
-   
+
+.. _N1.3:
+
 *N1.3 Course cancellation notification*
 
 This notification is sent to learners when the course they were enrolled to had been cancelled.
@@ -79,7 +83,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{DisenrollmentReason}} - explanation why the course had been cancelled
 
 Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally display text. If the disenrollment reason had been given, it will be shown in the message. If the disenrollment reason had not been defined, message within the region will be omitted.
-   
+
+.. _N1.5:
+
 *N1.5 Schedule change notification*
 
 If there are any changes in schedule start time, start date or location, this notification will be sent to both learners and lectures.
@@ -97,6 +103,8 @@ Variables that can be used in the body of this e-mail message are:
 
 Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationChange are used to conditionally display text. E-mail message will contain text in those regions depending on what has been changed: schedule date/time, location or both. 
 
+.. _N1.8:
+
 *N1.8 Schedule reminder*
 
 This message is sent to learners to remind them of an upcoming schedule.
@@ -108,7 +116,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{StartDate}} - schedule start date
 	* {{StartTime}} - schedule start time
 	* {{Location}} - schedule location
-   
+
+.. _N1.11:
+
 *N1.11 Reminder for unfinished courses* 
 
 This message is sent to learners to remind them they have an unfinished course with due date coming soon.
@@ -119,7 +129,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{DueDate}} - the date on which the course is expected to be completed
 	
 If there is more than one unfinished course in user's learning plan, all courses and their belonging due dates will be listed inside region #educations- #end.
-   
+
+.. _N1.12:
+
 *N1.12 Notification of schedule assignment to the lecturer*
 
 This message is sent to lecturers when they are assigned a schedule in a course.
@@ -132,7 +144,9 @@ Variables that can be used in the body of this e-mail message are:
 	* {{EndTime}} - schedule end time
 	* {{Location}} - schedule location
 	* {{EducationUrl}} - link to the course the schedule is related to
-   
+
+.. _N1.14:
+
 *N1.14 Notification of completed course*
 
 This message is sent to learners when they complete the course.
