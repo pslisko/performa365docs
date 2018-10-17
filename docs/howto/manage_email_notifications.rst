@@ -62,6 +62,7 @@ E-mail Notifications Messages
 .. _N1.2:
 
 *N1.2 Course enrollment notification*
+**************************************
 
 This notification is sent to learners when they have been administratively enrolled to a course.
 Variables that can be used in the body of this e-mail message are:
@@ -74,6 +75,7 @@ Variables that can be used in the body of this e-mail message are:
 .. _N1.3:
 
 *N1.3 Course cancellation notification*
+******************************************
 
 This notification is sent to learners when the course they were enrolled to had been cancelled.
 Variables that can be used in the body of this e-mail message are:
