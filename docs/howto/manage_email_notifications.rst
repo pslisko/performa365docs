@@ -89,6 +89,7 @@ Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally d
 .. _N1.5:
 
 *N1.5 Schedule change notification*
+**************************************
 
 If there are any changes in schedule start time, start date or location, this notification will be sent to both learners and lectures.
 Variables that can be used in the body of this e-mail message are:
@@ -108,6 +109,7 @@ Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationC
 .. _N1.8:
 
 *N1.8 Schedule reminder*
+***************************
 
 This message is sent to learners to remind them of an upcoming schedule.
 Variables that can be used in the body of this e-mail message are:
@@ -122,6 +124,7 @@ Variables that can be used in the body of this e-mail message are:
 .. _N1.11:
 
 *N1.11 Reminder for unfinished courses* 
+*****************************************
 
 This message is sent to learners to remind them they have an unfinished course with due date coming soon.
 Variables that can be used in the body of this e-mail message are:
@@ -135,6 +138,7 @@ If there is more than one unfinished course in user's learning plan, all courses
 .. _N1.12:
 
 *N1.12 Notification of schedule assignment to the lecturer*
+*************************************************************
 
 This message is sent to lecturers when they are assigned a schedule in a course.
 Variables that can be used in the body of this e-mail message are:
@@ -150,6 +154,7 @@ Variables that can be used in the body of this e-mail message are:
 .. _N1.14:
 
 *N1.14 Notification of completed course*
+******************************************
 
 This message is sent to learners when they complete the course.
 Variables that can be used in the body of this e-mail message are:
