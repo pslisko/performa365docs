@@ -69,6 +69,7 @@ User Sync
 User Sync procedure is executed every hour to synchronize all users from Performa 365-related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information will be synchronized.
 
 This procedure will propagate following user attributes to Performa 365:
+
  * First name
  * Last name
  * Name (Display name)
