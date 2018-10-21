@@ -15,8 +15,8 @@ Business Entities represent organizations (companies) or organization units (dep
 In total, this module supports 3 levels of business entities: 
 
 * Business group
-* Business entity
-* Organization unit
+* Company/Institution
+* Department
 
 Entity on each level can have unlimited number of parents so there is no practical limit on organisation hierarchy.  
 
@@ -28,7 +28,7 @@ Add a Business Entity
 #. **Add Business Entity** form opens below.
 #. Enter **Name** of your business entity or organization unit. 
 #. Enter optional **External identifier** such as tax number. This field is typically used for integration with your in-house systems when business entities and organizations registry is fetched automatically. 
-#. Choose the appropriate **Level** - Business group, Business entity or Organization unit.
+#. Choose the appropriate **Level** - Business group, Company/Institution or Department.
 #. Choose **Parent entity** from the dropdown menu. If your business entity doesn't have a parent, enter '-' in **Parent entity** field.
 #. **Save** button is enabled when all required fields are filled.
 #. Click **Save**.
@@ -40,4 +40,4 @@ Edit a Business Entity
 #. **Edit Business Entity** form opens below. 
 #. You can change your old data in all fields except **Id** and **External identifier** which are read only.
 
-.. note:: Changing the entity status to OFF (Deactivated) will disable usage of this  entity in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.)
+.. note:: Changing the entity status to OFF (Deactivated) will disable usage of this entity in all related entities (such as parent entity on this form, business entity field in :ref:`Locations management <manage_locations>` etc.)
