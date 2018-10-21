@@ -26,7 +26,7 @@ Current E-mail service settings are displayed. Click **Edit** to make changes:
 *E-mail settings* section:
 
     * *From address* - E-mail from address which will be used for sending e-mail notifications, for example: performa365@essperta.com.
-    * *From title* - E-mail from address "friendly name", for example: Performa 365. E-mail receiver will seethe from field as: Performa 365 (performa365@essperta.com). This field is optional.
+    * *From title* - E-mail from address "friendly name", for example: Performa 365. E-mail receiver will see the from field as: Performa 365 (performa365@essperta.com). This field is optional.
     * *Reply-to address* - If "from address" does not have a corresponding mailbox, use can use the reply-to address to specify where e-mail will be sent if user replies to any notification received from the system. This field is optional.
     * *Bcc* - Bcc address can be used it you want all send notification to be sent to a specific mailbox. Typically used as an additional repository of all sent e-mails. This field is optional.
     * *Default font name* - A font to be used in all e-mail notifications. For example: Calibri.
