@@ -10,7 +10,7 @@ Application roles needed to manage business entities: :ref:`Education Process Ad
 About Business Entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Business Entities represent organizations (companies) or organization units (departments, offices) used in the learning process. Typically, here you can manage your organization hierarchy as well as add external organizations if you use them in your education process. Addititionally, if your organization is part of a group of companies, such business group can also be added here. 
+Business Entities allows you to manage companies/institutions and their departments used in the learning process. Typically, here you can manage your organization (department) hierarchy as well as add external organizations if you use them in your processes. Addititionally, if your company or institution  is part of a larger group, such "business group" can also be added as a parent entity. 
 
 In total, this module supports 3 levels of business entities: 
 
