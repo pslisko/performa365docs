@@ -24,11 +24,11 @@ When AAD identity provider is used, users for Performa 365 are mostly managed th
 Add a New User (Internal)
 ******************************
 
-This procedure applies to internal users, typically employees or subcontractors of your company.
+This procedure applies to internal users, typically employees or subcontractors of your company, who already have accounts in your AAD.
 
-To add a new internal user to Performa 365, simply add the user to the user group in AAD which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
+To add a new internal user to Performa 365, simply add user's AAD account to the AAD user group which corresponds to the **Learner** role. AAD user group to Performa 365 role mapping can be obtained through your system admin. If additional roles are needed for the new user, just add the user's account to additional groups.
 
-New users will be propagated periodically from AAD to Performa 365, using the automatic :ref:`User Sync<UserSync>` procedure. If needed, changes can be propagated immediatelly by clicking the **Start user sync** tile in the **System settings** section of the **Manage** page.
+New users will be automatically propagated from AAD to Performa 365. Please check the details of the :ref:`User Sync<UserSync>` procedure to learn about synchronization frequency and user attributes being propagated. If needed, changes can be propagated immediatelly by clicking on the **Start user sync** tile in the **System settings** section of the **Manage** page.
 
 Add a New User (External)
 *****************************
@@ -66,8 +66,15 @@ View All Users
 User Sync
 **************
 
-User Sync procedure is executed every hour to synchronize all users from related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information such as first name, last name, display name and e-mail address, will be synchronized to Performa 365.
+User Sync procedure is executed every hour to synchronize all users from Performa 365-related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information will be synchronized.
 
+This procedure will propagate following user attributes to Performa 365:
+ * First name
+ * Last name
+ * Name (Display name)
+ * User name (E-mail address)
+ * Job title
+ * Department
 
 .. _ADFS:
 
