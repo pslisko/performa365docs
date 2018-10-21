@@ -68,7 +68,7 @@ User Sync
 
 User Sync procedure is executed every hour to synchronize all users from Performa 365-related AAD user groups to Performa 365. Any updates in AAD, including newly added users or users with updated information will be synchronized.
 
-This procedure will propagate following user attributes to Performa 365:
+This procedure will propagate the following users' attributes from AAD to Performa 365:
 
  * First name
  * Last name
@@ -76,6 +76,8 @@ This procedure will propagate following user attributes to Performa 365:
  * User name (E-mail address)
  * Job title
  * Department
+
+.. note:: Each unique department, as read from the Department field in AAD, will be created as new Department in Performa 365. As department hierarchy is not available in AAD, please use the :ref:`Manage Business Entities<business_entities>` functionality to set the appropriate relations beween business entities such as group of companies, company and departments.
 
 .. _ADFS:
 
