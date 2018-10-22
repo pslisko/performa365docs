@@ -48,7 +48,7 @@ Edit an HTML5 activity
 
 .. note:: When editing an activity, you will not be able to change its type. 
 .. note:: Activity will be updated to all enrolled learners who have not yet finished the course, regardless if they have finished the activity or not. 
-.. note:: Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have completed the activity will still be able to see in their activity list.
+.. note:: Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have completed the activity will still be able to see in their course activity list.
 
 Delete an HTML5 activity
 *************************************************
