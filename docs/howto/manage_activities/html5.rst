@@ -16,7 +16,7 @@ This activity is used to display a custom-developed HTML e-learning content with
 Add an HTML5 activity
 ********************************************
 
-#. Go to **Catalog** > **Courses**. Specific courses can be found using search and filtering options on the **Catalog** page.
+#. Go to **Catalog** > **Courses**. Specific course can be found using search and filter options on the **Catalog** page.
 #. Click the tile of the course you wish to add a new activity to.
 #. You will be redirected to the course page. 
 #. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**.
