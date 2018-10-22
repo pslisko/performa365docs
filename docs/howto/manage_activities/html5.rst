@@ -13,7 +13,7 @@ About
 
 This activity is used to display a custom-developed HTML e-learning content within a course. The content can be any valid HTML page or a set of pages, provided to Performa 365 in the form of a single zip file. This zip file must have an index.htm file in its root. Performa 365 will launch this index.html in a separate browser window once a learner starts the respective activity.
 
-Add an HTML5 activity
+Add an HTML5 Activity
 ********************************************
 
 #. Go to **Catalog** > **Courses**. Specific course can be found using search and filter options on the **Catalog** page.
@@ -34,7 +34,7 @@ Add an HTML5 activity
 #. In the final step you will be notified how many learners will be added to this activity. New activity will only be added to learners who have not yet completed the course. 
 #. Click **Finish** to create the activity.
 
-Edit an HTML5 activity
+Edit an HTML5 Activity
 **********************************************
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
@@ -50,7 +50,7 @@ Edit an HTML5 activity
 .. note:: Activity will be updated to all enrolled learners who have not yet finished the course, regardless if they have finished the activity or not. 
 .. note:: Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have completed the activity will still be able to see in their course activity list.
 
-Delete an HTML5 activity
+Delete an HTML5 Activity
 *************************************************
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
