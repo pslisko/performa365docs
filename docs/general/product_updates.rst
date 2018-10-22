@@ -5,10 +5,10 @@ Product Updates
 ================
 
 
-Performa 365 v2.0.11  (10/22/2018)
+Performa 365 v2.0.11
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Release date: 10/22/2018
+Release date: 10/22/18
 
 New:
 
@@ -16,8 +16,10 @@ New:
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
 
-Performa 365 v2.0.10  (10/14/2018)
+Performa 365 v2.0.10  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 10/14/18
 
 New:
    
@@ -57,8 +59,11 @@ Removed:
 ..
 
 
-Performa 365 v2.0.9  (9/18/2018)
+Performa 365 v2.0.9
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 09/18/18
+
 
 Fixed:
 
@@ -74,8 +79,11 @@ Fixed:
 ..
 
 
-Performa 365 v2.0.8  (07/25/2018)
+Performa 365 v2.0.8
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 07/25/18
+
 
 Fixed:
 
@@ -85,8 +93,10 @@ Fixed:
 ..
 
 
-Performa 365 v2.0.7  (7/10/2018)
+Performa 365 v2.0.7
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 07/10/18
 
 New:
 
@@ -98,8 +108,11 @@ New:
 ..
 
 
-Performa 365 v2.0.6  (05/14/18)
+Performa 365 v2.0.6
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 05/14/18
+
 
 New:
 
@@ -110,8 +123,11 @@ New:
 
 
 
-Performa 365 v2.0.5  (04/24/18)
+Performa 365 v2.0.5
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 04/24/18
+
 
 New:
 
@@ -136,8 +152,11 @@ Changed:
 
 
 
-Performa 365 v2.0.4  (11/28/17)
+Performa 365 v2.0.4
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 11/28/17
+
 
 Fixed:
 
@@ -151,8 +170,10 @@ Fixed:
 
 
 
-Performa 365 v2.0.3  (11/14/17)
+Performa 365 v2.0.3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 11/14/17
 
 New:
 
@@ -170,8 +191,11 @@ Fixed:
 
 
 
-Performa 365 v2.0.2  (10/9/17)
+Performa 365 v2.0.2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 10/09/17
+
 
 Fixed:
 
@@ -182,8 +206,11 @@ Fixed:
 
 
 
-Performa 365 v2.0.1  (9/22/17)
+Performa 365 v2.0.1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 09/22/17
+
 
 New:
 
