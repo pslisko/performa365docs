@@ -31,7 +31,7 @@ Add an HTML5 activity
 #. In the second step enter **Total points** for this activity and click **Next**. 
 #. To add content, drop the zip file into the drag-and-drop control or click on the control to open file location (see the details of the zip file content in the About section above).
 #. Click **Next** to continue on to the next step.
-#. In the final step you will be notified how many learners will be added this activity. New activity will only be added to learner who have not yet completed the course. 
+#. In the final step you will be notified how many learners will be added to this activity. New activity will only be added to learners who have not yet completed the course. 
 #. Click **Finish** to create the activity.
 
 Edit an HTML5 activity
