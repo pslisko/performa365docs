@@ -8,6 +8,8 @@ Product Updates
 Performa 365 v2.0.11  (10/22/2018)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Release date: 10/22/2018
+
 New:
 
 * Waiting list automatic enrollment
