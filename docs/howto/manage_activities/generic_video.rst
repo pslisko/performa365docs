@@ -41,8 +41,11 @@ Edit a Generic Activity
 #. Change the data in the fields you wish to update and click **Finish**.
 
 .. note:: When editing an activity, you will not be able to change its type. 
-Activity will be updated to all enrolled learners who have not yet finished this course, regardless if they have finished the activity or not. 
-Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in their activity list.
+
+.. note:: Activity will be updated to all enrolled learners who have not yet finished this course, regardless if they have finished the activity or not.
+
+.. note:: Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have compleated the activity will still be able to see in their activity list.
+
 
 Delete a Generic Activity
 *********************
