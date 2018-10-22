@@ -1,7 +1,10 @@
 .. _product_updates:
 
-Future Updates
+
+Product Updates
 ================
+
+10/22/2018
 
 Performa 365 v2.0.11
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -11,9 +14,6 @@ New:
 * Waiting list automatic enrollment
    Users on waiting lists will be enrolled to schedule automatically if the seats become available.
    
-
-Product Updates
-================
 
 10/14/2018
 
