@@ -31,7 +31,7 @@ Add an HTML5 activity
 #. In the second step enter **Total points** for this activity and click **Next**. 
 #. To add content, drop the zip file into the drag-and-drop control or click on the control to open file location (see the details of the zip file content in the About section above).
 #. Click **Next** to continue on to the next step.
-#. In the final step you will be notified how many learners will be added this activity. New activity will only be added to users who have not yet completed the course. 
+#. In the final step you will be notified how many learners will be added this activity. New activity will only be added to learner who have not yet completed the course. 
 #. Click **Finish** to create the activity.
 
 Edit an HTML5 activity
@@ -39,23 +39,23 @@ Edit an HTML5 activity
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
 #. Choose **Activities** from the dropdown menu.
-#. **Activities** page opens containing list of all available activities. 
-#. Select edit icon in the **Actions** column of the HTML5 activity you wish to edit.
+#. **Activities** page opens containing a list of all available activities. 
+#. Select the edit icon in the **Actions** column of the HTML5 activity you wish to edit.
 #. **Edit activity** wizard opens below. 
 #. Non-editable fields will be displayed as read-only. 
-#. Change data in the fields you wish to update and click **Finish** in the last step.
+#. Change the data in the fields you wish to update and click **Finish**.
 
 
 .. note:: When editing an activity, you will not be able to change its type. 
 .. note:: Activity will be updated to all enrolled learners who have not yet finished the course, regardless if they have finished the activity or not. 
-.. note:: Changing the status of an activity to *OFF* will only hide it from learners who haven't completed it. All learners who have completed the activity will still be able to see in the course's activity list.
+.. note:: Changing the status of the activity to *OFF* will only hide it from learners who haven't completed it. All learners who have completed the activity will still be able to see in their activity list.
 
 Delete an HTML5 activity
 *************************************************
 
 #. On the course page's sub-menu click **Manage** to open a dropdown menu. 
 #. Choose **Activities** from the dropdown menu.
-#. **Activities** page opens containing list of all available activities. 
-#. Select delete icon in the **Actions** column of the HTML5 activity you wish to delete.
+#. **Activities** page opens containing a list of all available activities. 
+#. Select the delete icon in the **Actions** column of the HTML5 activity you wish to delete.
 #. Confirm window opens informing you that activity will be deleted for all enrolled learners in the current learning period. Learners who have enrolled in the previous learning period(s) will not be affected - they will still have this activity.
 #. Click **Yes** to complete the action.
