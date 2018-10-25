@@ -11,7 +11,7 @@ Application roles needed to work with activities:
 About
 **********
 
-This activity is used to display a custom-developed HTML e-learning content within a course. The content can be any valid HTML page or a set of pages, provided to Performa 365 in the form of a single zip file. This zip file must have an index.htm file in its root. Performa 365 will launch this index.html in a separate browser window once a learner starts the respective activity.
+This activity is used to display a custom-developed HTML e-learning content within a course. The content can be any valid HTML page or a set of pages, provided to Performa 365 in the form of a single zip file. This zip file must have an **index.html file in its root**. Performa 365 will launch this index.html in a separate browser window once a learner starts the respective activity.
 
 Add an HTML5 Activity
 ********************************************
