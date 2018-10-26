@@ -26,7 +26,7 @@ Each course consists of number of activities. These activities can be of differe
 
 ..
 
-Optional, equired and overdue activities
+Optional, required and overdue activities
 **********************************
 
 
