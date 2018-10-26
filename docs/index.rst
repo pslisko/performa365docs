@@ -47,6 +47,7 @@ To learn how to do a specific task, such as use the catalog or work with courses
    howto/manage_countries_and_cities
    howto/use_the_catalog
    howto/work_with_courses
+   howto/take_a_course
    howto/work_with_exams
    howto/manage_activities/index
    howto/work_with_certificates
