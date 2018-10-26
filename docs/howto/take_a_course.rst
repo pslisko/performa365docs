@@ -47,3 +47,11 @@ Course activities can be:
 * **Non-sequential activities**: A learners can complete activities in random order. 
 
 .. note:: Activities with start dates will become available on the defined date.
+
+
+Course sidebar
+***************
+
+* **Course progress**: In the right sidebar on the course page an overall progress is displayed. Progress bar indicates the percentage of completion and an icon next to it shows success and status of activities.
+* **Course rating**: Learners can rate the course they are taking by clicking on the starts below the course name. If the rating is four stars or less, a modal form will ask for a comment before the rating is submitted.
+* **Additional information on the course**:  There is also some additional information in the sidebar like business area and course owner's name.
