@@ -19,7 +19,7 @@ Each course consists of number of activities. These activities can be of differe
 
 #. **Survey**: When taking a survey type of activity, learners are redirected to Sharepoint survey which opens in new tab. This activity also requires clicking the action button *Confirm completion* to mark it as completed.
 
-#. **HTML5**: This is an interactive type of content opened in new tab. To finish this type of activity, learners need to click *Confirm completion*.
+#. **HTML5**: This is an interactive type of content opened in new tab. To finish this type of activity, learners need to click *Confirm completion* in the activity tile.
 
 #. **Classroom** and **Virtual classroom**: To be able to take these types of activities, learners need to choose a schedule. If schedules are available, an action button will be shown in the bottom right part of the tile. Clicking on it redirects a learner to the schedule page with the list of available schedules. Each available schedule has details about time, location, instructors, capacity and number of learners already enrolled to the schedule. If the schedule is full, learners are added to the waiting list. This type of activity will be marked as completed after instructors confirm the learner's presence in the schedule.
 
