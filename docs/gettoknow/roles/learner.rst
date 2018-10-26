@@ -10,5 +10,6 @@ Learner is the minimal role in the system.
 Users in this role can perform following actions:
 
 * Browse the :ref:`catalog<catalog>`
-* Take a course
-* View their profile
+* View their *Learning plan*
+* :ref:`Take a course<take_a_course>`
+* View their *Profile page*
