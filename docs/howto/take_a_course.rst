@@ -29,9 +29,8 @@ Each course consists of number of activities. These activities can be of differe
 Optional, equired and overdue activities
 **********************************
 
-Activities can also be optional and required. 
 
-* **Reqired activity**: If the activity is required, it cannot be skipped and must be completed to successfully finish the course. Required activities have a blue exclamation icon in the activity tile as well as "Required" next to the icon. If the activity is completed, the message will be displayed in green text showing the date of completion and activity tile will have green border on the left side.
+* **Required activity**: If the activity is required, it cannot be skipped and must be completed to successfully finish the course. Required activities have a blue exclamation icon in the activity tile as well as "Required" next to the icon. If the activity is completed, the message will be displayed in green text showing the date of completion and activity tile will have green border on the left side.
 
 * **Optional activities**: These type of activities have an orange icon and are labeled "Optional". Optional activity can be skipped but if the activity is of type classroom or virtual classroom and learner chooses to enroll to the schedule, activity needs to be completed to be able to finish the course. If the activity is skipped, the message will be displayed and activity tile will have orange border on the left side.
 
