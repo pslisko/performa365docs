@@ -27,7 +27,7 @@ Each course consists of number of activities. These activities can be of differe
 ..
 
 Optional, required and overdue activities
-**********************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 * **Required activity**: If the activity is required, it cannot be skipped and must be completed to successfully finish the course. Required activities have a blue exclamation icon in the activity tile as well as "Required" next to the icon. If the activity is completed, the message will be displayed in green text showing the date of completion and activity tile will have green border on the left side.
@@ -39,18 +39,18 @@ Optional, required and overdue activities
 ..
 
 Sequential and non-sequential activities
-****************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Course activities can be:
 
 * **Sequential activities**: To move to the next course activity, a previous one must be completed.
-* **Non-sequential activities**: A learners can complete activities in random order. 
+* **Non-sequential activities**: Learners can complete activities in random order. 
 
-.. note:: Activities with start dates will become available on the defined date.
+.. note:: Activities with start dates will become available on the defined date. This applies to both sequential amd non-seqential activities.
 
 
 Course sidebar
-***************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Course progress**: In the right sidebar on the course page an overall progress is displayed. Progress bar indicates the percentage of completion and an icon next to it shows success and status of activities.
 * **Course rating**: Learners can rate the course they are taking by clicking on the starts below the course name. If the rating is four stars or less, a modal form will ask for a comment before the rating is submitted.
