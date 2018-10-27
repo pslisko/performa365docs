@@ -3,7 +3,7 @@ Take a Course
 
 There are two ways learners can be enrolled to a course:
 
-* **Self-enrollment**: To self enroll to the course, learners need to choose a course from the catalog and select the *Enroll* action button in the sidebar of the course page.. If the visibility of the course is set to *View only*, learners will not be able to enroll to the course.
+* **Self-enrollment**: To self enroll to a course, learners need to choose a course from the catalog and select the *Enroll* action button in the sidebar of the course page. If the visibility of the course is set to *View only*, learners will not be able to enroll to the course.
 * **Administrative enrollment**: When learners are administrativelly enrolled to a course, they receive an e-mail notification informing them of this action. The course will become visible in their learning plan and they will be able to access its activities.
 
 Course activities
@@ -13,9 +13,9 @@ Each course consists of number of activities. These activities can be of differe
 
 #. **Generic activity**: If learners are required to take actions such as research, reading, completing specific tasks, etc. this type of activity will be used. To mark the activity as completed, a learner needs to click on action button *Confirm completion*.
 
-#. **Video**: this type of activity has video content shown inside activity tile. To mark the activity as completed, a learner needs to click on action button *Confirm completion*.
+#. **Video**: This type of activity has video content shown inside activity tile. To mark the activity as completed, a learner needs to click on action button *Confirm completion*.
 
-#. **Exam**: This activity opens in a separate window and redirects learner to an exaam page. Exams have time limit so the timer is displayed on the top left. Questions bar on the left has list of all questions which are shown in the main window when selected. Each answered question will have green checkmark next to it but will remain clickable so that learners can change their answers if they decide to. Exams are finished by clicking the action button *Finish exam* which opens confirmation window. When the exam is completed, learners are shown the success and provided with an action button that redirects them to the homepage.
+#. **Exam**: This activity will redirect learner to the exam page. Exams have time limit so the timer is displayed in the top left corner of the exam page. Questions bar on the left has list of all questions which are shown in the main window when selected. Each answered question will have green checkmark next to it but will remain clickable so that learners can change their answers if they decide to. Exams are finished by clicking the action button *Finish exam* which opens confirmation window. When the exam is completed, learners are shown the success and provided with an action button that redirects them to the homepage.
 
 #. **Survey**: When taking a survey type of activity, learners are redirected to Sharepoint survey which opens in new tab. This activity also requires clicking the action button *Confirm completion* to mark it as completed.
 
@@ -52,6 +52,6 @@ Course activities can be:
 Course sidebar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* **Course progress**: In the right sidebar on the course page an overall progress is displayed. Progress bar indicates the percentage of completion and an icon next to it shows success and status of activities.
-* **Course rating**: Learners can rate the course they are taking by clicking on the starts below the course name. If the rating is four stars or less, a modal form will ask for a comment before the rating is submitted.
+* **Course progress**: In the right sidebar on the course page an overall progress is displayed. Progress bar indicates the percentage of completion and an icon next to it. Clicking on this icon opens pop-p window showing success and status of activities.
+* **Course rating**: Learners can rate the course they are taking by clicking on the stars below the course name. If the rating is four stars or less, a modal form will ask for a comment before the rating is submitted.
 * **Additional information on the course**:  There is also some additional information in the sidebar like business area and course owner's name.
