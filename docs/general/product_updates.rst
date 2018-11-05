@@ -17,6 +17,9 @@ Improved:
 * HTML5 activity 
    When adding/editing HTML5 type of activity, user is provided with a link to the manual chapter that explains the process in more detail. There is also a message explaining that placing new .zip file in the drag-and-drop control will overwrite the existing .zip file. If changes are made in other fields and this control is left empty, old .zip file will remain active.
    
+* Exam activity tile
+   Exam details and completion message have been changed to be more clear.
+   
 
 Performa 365 v2.0.11
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
