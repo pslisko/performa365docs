@@ -5,16 +5,20 @@ Manage Locations
 
 Application roles needed to manage locations: :ref:`Education Process Admin <education_process_administrator>`
 
+..
+
 About Locations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-... 
+
+..
+
 
 Add Location
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. In the **Education process management** section on the **Manage** page click **Locations** tile.
 #. **Locations** form is shown on top of the page containing list of all available locations and action button **Add**.
-#. click **Add** to add new location.
+#. Click **Add** to add new location.
 #. **Add Location** form opens below.
 #. Enter **Name** of your location.
 #. Choose **Business entity** it belongs to from the dropdown menu. If the location is within your company's premises, set the Business entity to your company. If you perform educational activities on some rented locations, set the address and business entity to the company providing you this location. For example, you may have “Room 101” in "My Company" but also “Room A” in "Company Next Door" if your classroom is occupied. With this property, and other properties like address, you know which one you select.
