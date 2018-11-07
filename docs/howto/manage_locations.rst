@@ -9,7 +9,6 @@ Application roles needed to manage locations: :ref:`Education Process Admin <edu
   
 ..
 
-
 Add Location
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
