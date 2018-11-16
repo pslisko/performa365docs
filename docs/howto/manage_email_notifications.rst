@@ -86,6 +86,21 @@ Variables that can be used in the body of this e-mail message are:
 
 Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally display text. If the disenrollment reason had been given, it will be shown in the message. If the disenrollment reason had not been defined, message within the region will be omitted.
 
+.. _N1.4:
+
+*N1.4 Course activity schedule enrollment notice*
+**************************************************
+
+This notification is sent to learners when they enroll into schedule for classroom/virtual classroom type of activity.
+Variables that can be used in the body of this e-mail message are:
+
+	* {{FirstName}} - recipient's first name
+	* {{ActivityName}} - classroom/virtual classroom type of activity related to the schedule
+	* {{EducationName}} - course name
+	* {{StartDate}} - schedule start date
+	* {{StartTime}} - schedule start time
+	* {{Location}} - schedule location
+
 .. _N1.5:
 
 *N1.5 Schedule change notification*
@@ -114,7 +129,7 @@ Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationC
 This message is sent to learners to remind them of an upcoming schedule.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - learner's 
+	* {{FirstName}} - recipient's first name
 	* {{ActivityName}} - activity name
 	* {{EducationName}} - course name
 	* {{StartDate}} - schedule start date
@@ -129,7 +144,7 @@ Variables that can be used in the body of this e-mail message are:
 This message is sent to learners to remind them they have an unfinished course with due date coming soon.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - learner's first name
+	* {{FirstName}} - recipient's first name
 	* {{EducationName}} - name of the course
 	* {{DueDate}} - the date on which the course is expected to be completed
 	
@@ -159,7 +174,7 @@ Variables that can be used in the body of this e-mail message are:
 This message is sent to learners when they complete the course.
 Variables that can be used in the body of this e-mail message are:
 
-	* {{FirstName}} - learner's first name
+	* {{FirstName}} - recipient's first name
 	* {{EducationName}} - name of the course that was completed
 	* {{EducationFinishedDate}} - date on which the course was completed
 
