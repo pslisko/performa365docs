@@ -7,7 +7,7 @@ Application roles needed to manage document templates: :ref:`Education Process A
 
 About Document Templates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Document templates are used for auto-generated documents, such as cerificate of a competed course. Information such as education name, learner's name, date of compleation and total education duration can be displayed in a generated document. The list of variables which can be used in a particular template is shown on the place where template is used. For example, on the course creation form, the creator can see a list of variables to be inserted in the user's certificate and thus choose a template which contains these variables).
+Document templates are used for auto-generated documents, such as a cerificate of a competed course. Information such as the course name, learner's name, date of compleation and total course duration can be displayed in a generated document. The list of variables which can be used in a particular template is shown on the place where template is used. For example, on the course creation form, the creator can see a list of variables to be inserted in the user's certificate and thus choose a template which contains these variables.
 
 Add a Document Template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
