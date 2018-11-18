@@ -8,7 +8,7 @@ Application roles needed to manage business areas: :ref:`Education Process Admin
 About Business Areas
 ^^^^^^^^^^^^^^
 
-When creating an education, program or exam you need to choose business areas they cover. This will allow grouping of learning activities into categories so that users can browse the catalog by particular business area.
+When creating a course or an exam, you need to choose business areas they cover. This will allow grouping of learning activities into categories so that users can browse the catalog by particular business area.
 
 .. note:: You must have at least one business area in your tenant. 
 
