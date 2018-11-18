@@ -12,7 +12,7 @@ When creating a course or an exam, you need to choose business areas they cover.
 
 .. note:: You must have at least one business area in your tenant. 
 
-Add Business Area
+Add a Business Area
 ^^^^^^^^^^^^^^
 
 #. In the **Education process management** section on the **Manage** page click **Business areas** tile.
@@ -24,7 +24,7 @@ Add Business Area
 #. **Save** button is enabled when all required fields are filled.
 #. Click **Save**.
 
-Edit Business Area
+Edit a Business Area
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Go to **Manage** > **Business areas**.
@@ -35,7 +35,7 @@ Edit Business Area
 
  .. note:: You will not be able to change the status to **Off** if there are learning activities within this business area.
 
-Delete Business Area
+Delete a Business Area
 ^^^^^^^^^^^^^^
 
 #. Go to **Manage** > **Business areas**.
