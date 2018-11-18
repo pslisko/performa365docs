@@ -3,7 +3,7 @@
 Use the Catalog
 ================
 
-All application roles can view and browse the catalog but some functionalities are only enabled to users with a specific role.
+All application roles can browse the catalog however some additional, management features are only enabled to users with a specific role, as described below.
 
 About
 ******
@@ -13,7 +13,7 @@ About
 
 .. 
 
-**Catalog** page allows viewing all types of educations currently available in the system. There are two types of content: *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators. 
+**Catalog** shows all types of learning content currently available in the system. Currenty, catalog shows *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators. 
 
 .. 
 
