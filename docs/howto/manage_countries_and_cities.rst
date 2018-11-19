@@ -8,7 +8,7 @@ Application roles needed to manage learning periods: :ref:`Education Process Adm
 About Cities and Countries
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Each business entity defined within your tenant can have a city defined. Cities are chosen from the dropdown list when adding/editing business entities. Both countries and cities have to be inserted manually. To add a city, at least one country must be added first. 
+Each business entity within your tenant can have a city defined. Cities are chosen from the dropdown list when adding/editing business entities. Both countries and cities have to be inserted manually. To add a city, at least one country must be added first. 
 
 
 Add a Country
