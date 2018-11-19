@@ -4,6 +4,20 @@
 Product Updates
 ================
 
+Performa 365 v2.0.13
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 11/19/18
+
+Improved:
+
+* Tenant configuration
+   Some features have been removed to simplify the process of creating/editing application tenants.
+   
+* Links to online manual
+   Sections of application have been connected to corresponding manual chapters via links.
+   
+
 Performa 365 v2.0.12
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
