@@ -5,6 +5,12 @@ Manage Countries and Cities
 
 Application roles needed to manage learning periods: :ref:`Education Process Admin <education_process_administrator>`
 
+About Cities and Countries
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Each business entity defined within your tenant can have a city defined. Cities are chosen from the dropdown list when adding/editing business entities. Both countries and cities have to be inserted manually. To add a city, at least one country must be added first. 
+
+
 Add a Country
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. In the **Education process management** section on the **Manage** page click **Countries** tile.
@@ -12,7 +18,7 @@ Add a Country
 #. Click **Add** to add new country.
 #. **Add Country** form opens below.
 #. Fill in the fields using ISO 3116-1 codes from `Country code list <http://www.nationsonline.org/oneworld/country_code_list.htm>`_.
-#. **Save** button is enabled when all required fields are filled.
+#. **Save** button is enabled when all required fields are filled in.
 #. Click **Save**.
 
 Edit a Country
