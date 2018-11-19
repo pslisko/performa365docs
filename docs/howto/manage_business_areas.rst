@@ -9,6 +9,7 @@ About Business Areas
 ^^^^^^^^^^^^^^
 
 When creating a course or an exam, you need to choose business areas they cover. This will allow grouping of learning activities into categories so that users can browse the catalog by particular business area.
+Business areas can be organized hierarchicaly up to 3 levels. 
 
 .. note:: You must have at least one business area in your tenant. 
 
