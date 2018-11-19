@@ -9,7 +9,7 @@ Application roles needed to manage locations: :ref:`Education Process Admin <edu
 About Locations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^  
 
-Locations are typically used for defining rooms where classroom educations are held. These rooms can be within company's premises
+Locations are typically used for defining rooms where classroom activities are held. These rooms can be within company's premises
 or outside the company if courses take place on rented locations.
 Each location has properties like address, number of seats, number of computers, additional equipment, etc., which allows you to choose the most suitable location for a specific course.
 
