@@ -18,13 +18,13 @@ Variables used for generated document
 
 Certificate template can contain following variables:
 
-* {{EducationName}} – education name
+* {{EducationName}} – course name
 * {{UserDisplayName}} – user's display name
-* {{CompletionDate}} – date of education completion
-* {{CompletionTime}} – time of education completion
-* {{EducationDurationDays}} – total education duration in days (rounded)
-* {{EducationDurationHours}} – total education duration in days (rounded)
-* {{EducationDurationHoursMinutes}} – total education duration, in hours and minutes
+* {{CompletionDate}} – date of course completion
+* {{CompletionTime}} – time of course completion
+* {{EducationDurationDays}} – total course duration in days (rounded)
+* {{EducationDurationHours}} – total course duration in days (rounded)
+* {{EducationDurationHoursMinutes}} – total course duration, in hours and minutes
 
 View Certificates as a Learner
 ******************************
