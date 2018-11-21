@@ -32,7 +32,7 @@ The *New Course* button opens a three-step wizard. All required fields are marke
 #. **Discussion group** field enables you to connect the course with an existing Yammer group. If this is needed, enter the Yammer group feedID (a numeric value found in the URL when Yammer group is opened).
 #. **Course owners can enroll learners** indicates that learners can be enrolled in the course by both Course owners and Enrollment administrators (if set to *ON*) or only by Enrollment administrators (if set to *OFF*). This toggle button is set to *ON* by default.
 #. When **Sequential activities** is set to *ON* learners must take learning activities in the predefined order. Setting it to *OFF* will allow learners to take learning activities in the arbitrary order.
-#. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or education owner* (course completion can be confirmed by education owner as well).
+#. **Completion confirmation** is required. It should be set to either *Learner* (learners individually confirm course completion) or *Learner or course owner* (course completion can be confirmed by course owner as well).
 #. If **Certificate generation** is set to *ON*, learner will get an auto-generated certificate after the successful course completion. If certificates of completion should not be created, set this option to *OFF*. 
 #. **Template** is visible only if **Certificate generation** is set to *ON*. In that case, a template is required and is chosen from the drop-down menu. To be able to choose a template from the list, they must first be added by :ref:`Education Process Admin <education_process_administrator>`. To learn more go to: :ref:`How to > Manage Document Templates <manage_document_templates>`.
 
@@ -61,13 +61,13 @@ Application roles needed to edit a course:
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of the course you wish to edit.
 #. You will be redirected to the course page. 
-#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Education owners and users who are instructors in at least one course schedule.
+#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Course owners and users who are instructors in at least one course schedule.
 #. Click on **Manage** menu item to open a dropdown menu. 
 #. Choose **Edit course** from the dropdown menu.
 #. A three-step wizard opens, identical to the one for adding a new course. 
 #. Complete the wizard and click **Finish**.
 
-.. note:: When editing a course, Catalog Admin or Education Owner can change almost any option, however changes that concern learners will only be applied to newly enrolled learners (enrolled after the change).
+.. note:: When editing a course, Catalog Admin or Course Owner can change almost any option, however changes that concern learners will only be applied to newly enrolled learners (enrolled after the change).
 
 .. _delete_course:
 
@@ -131,7 +131,7 @@ Application roles needed to work with documents:
 * :ref:`Instructor <instructor>`
 
 
-View documents as a learner
+View Documents as a Learner
 ******************************
 
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
@@ -143,13 +143,13 @@ View documents as a learner
 #. Click on the document tile to view/download the content.
 
 
-Work with documents as a course owner or instructor
+Work With Documents as a Course Owner or Instructor
 ****************************************************
 
 #. Go to **Catalog** > **Courses**. Courses can be found using search and filtering options on the **Catalog** page.
 #. Click the tile of your enrolled course.
 #. You will be redirected to the course page. 
-#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Education owners and users who are instructors in at least one course schedule.
+#. Each course page has a sub-menu with following menu items: **Home**, **Activities**, **Documents** and **Manage**. **Manage** is only visible to Catalog admins, Course owners and users who are instructors in at least one course schedule.
 #. Click on **Documents**. 
 #. **Documents** page opens containing all available files for that course. Each document is represented by the tile.
 #. Course owners and instructors have access to the corresponding SharePoint library. In the course sidebar on the right there is a section "Manage learning materials". Inside this section there is a link button "Open the SharePoint library." Course owner can upload any kind of learning material and create additional subfolders. Instructors can only upload materials to a pre-created folder for their classroom schedule.
