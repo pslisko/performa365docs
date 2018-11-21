@@ -8,7 +8,7 @@ Application roles needed to work with activities:
 
 * :ref:`Catalog Administrators <catalog_administrator>`
 
-* :ref:`Education Owner <education_owner>`
+* :ref:`Course Owner <education_owner>`
 
 
 Add an Exam Activity
