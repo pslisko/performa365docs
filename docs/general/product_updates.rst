@@ -7,7 +7,7 @@ Product Updates
 Performa 365 v2.0.13
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Release date: 11/19/18
+Release date: 11/21/18
 
 Improved:
 
