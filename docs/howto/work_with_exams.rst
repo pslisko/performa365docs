@@ -41,7 +41,7 @@ Exam Admins can edit all exams, Exam Creators can only edit an exam if they have
 #. Change the desired fields and click **Save**.
 #. After successfully editing the exam, you will be redirected to the **Exams** page.
 
-.. note:: If an exam is deactivated (**Status** is set to *OFF*) enrolled learners will still be able to take the exam but it will not be possible to create new education activities using this exam. 
+.. note:: If an exam is deactivated (**Status** is set to *OFF*) enrolled learners will still be able to take the exam but it will not be possible to create new course activities using this exam. 
 
 Delete an Exam
 **************
