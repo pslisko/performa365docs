@@ -11,5 +11,5 @@ Users in this role can perform following actions:
 
 * Browse the :ref:`Catalog<catalog>`
 * View their :ref:`Learning plan<learning_plan>`
-* :ref:`Take a course<take_a_course>`
+* :ref:`Take a Course<take_a_course>`
 * View their *Profile page*
