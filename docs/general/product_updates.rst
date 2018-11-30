@@ -4,6 +4,23 @@
 Product Updates
 ================
 
+Performa 365 v2.0.14
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 12/01/18
+
+Improved:
+
+* Schedule enrollment
+   When users successfully enroll into schedule, they will be redirected to the activities page of the related course.
+   
+   
+Fixed:
+
+* Classroom attendace
+   Total number of enrolled attendees is now displayed correctly.
+   
+
 Performa 365 v2.0.13
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
