@@ -65,24 +65,24 @@ E-mail Notifications Messages
 **************************************
 
 This notification is sent to learners when they have been administratively enrolled to a course.
-Variables that can be used in the body of this e-mail message are:
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
-	* {{EducationName}} - name of the course the recipient is enrolled to
+	* {{FirstName}} - learner's first name
+	* {{EducationName}} - name of the course the learner is enrolled to
 	* {{AssignmentDueDate}} - the date on which the course is expected to be completed
-	* {{EnrollmentReason}} - explanation why the recipient was enrolled to the course
+	* {{EnrollmentReason}} - explanation why the learner was enrolled to the course
 
 .. _N1.3:
 
 *N1.3 Course cancellation notification*
 ******************************************
 
-This notification is sent to learners when the course they were enrolled to had been cancelled.
-Variables that can be used in the body of this e-mail message are:
+This notification is sent to learners when the course they were administratively enrolled to had been cancelled. This notification is not sent if learners disenroll themselves from the course they were self enrolled to.
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
+	* {{FirstName}} - learner's first name
 	* {{EducationName}} - name of the cancelled course
-	* {{DisenrollmentReason}} - explanation why the course had been cancelled
+	* {{DisenrollmentReason}} - explanation why the course they were administratively enrolled to had been cancelled
 
 Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally display text. If the disenrollment reason had been given, it will be shown in the message. If the disenrollment reason had not been defined, message within the region will be omitted.
 
@@ -91,11 +91,11 @@ Region #disenrollmentReason - #enddisenrollmentReason is used to conditionally d
 *N1.4 Course activity schedule enrollment notice*
 **************************************************
 
-This notification is sent to learners when they enroll into schedule for classroom/virtual classroom type of activity.
-Variables that can be used in the body of this e-mail message are:
+This notification is sent to learners when they enroll into schedule for classroom/virtual classroom activity.
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
-	* {{ActivityName}} - classroom/virtual classroom type of activity related to the schedule
+	* {{FirstName}} - learners's first name
+	* {{ActivityName}} - classroom/virtual classroom activity related to the schedule
 	* {{EducationName}} - course name
 	* {{StartDate}} - schedule start date
 	* {{StartTime}} - schedule start time
@@ -106,10 +106,10 @@ Variables that can be used in the body of this e-mail message are:
 *N1.5 Schedule change notification*
 **************************************
 
-If there are any changes in schedule start time, start date or location, this notification will be sent to both learners and lectures.
-Variables that can be used in the body of this e-mail message are:
+If there are any changes in schedule start time, start date or location, this notification will be sent to both learners and schedule instructors.
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
+	* {{FirstName}} - learner's/schedule instructor's first name
 	* {{ActivityName}} - activity related to schedule change
 	* {{EducationName}} - course name
 	* {{StartDate}} - initial start date
@@ -119,7 +119,7 @@ Variables that can be used in the body of this e-mail message are:
 	* {{Location}} - initial location
 	* {{NEWLocation}} - new location
 
-Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationChange are used to conditionally display text. E-mail message will contain text in those regions depending on what has been changed: schedule date/time, location or both. 
+Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationChange are used to conditionally display text. E-mail notification will contain text in those regions depending on what has been changed: schedule date/time, location or both. 
 
 .. _N1.8:
 
@@ -127,10 +127,10 @@ Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationC
 ***************************
 
 This message is sent to learners to remind them of an upcoming schedule.
-Variables that can be used in the body of this e-mail message are:
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
-	* {{ActivityName}} - activity name
+	* {{FirstName}} - learner's first name
+	* {{ActivityName}} - classroom/virtual classroom activity name
 	* {{EducationName}} - course name
 	* {{StartDate}} - schedule start date
 	* {{StartTime}} - schedule start time
@@ -141,10 +141,11 @@ Variables that can be used in the body of this e-mail message are:
 *N1.11 Reminder for unfinished courses* 
 *****************************************
 
-This message is sent to learners to remind them they have an unfinished course with due date coming soon.
-Variables that can be used in the body of this e-mail message are:
+.. note:: This notification is periodically sent to learners to remind them they have an unfinished course with due date coming soon. The notification will be sent 3 days before the date the course is expected to be completed. It can be configured how frequently to send the notification: every day, on selected day of the week or on selected day of the month. 
 
-	* {{FirstName}} - recipient's first name
+Variables that can be used in the body of this e-mail notification are:
+
+	* {{FirstName}} - learner's first name
 	* {{EducationName}} - name of the course
 	* {{DueDate}} - the date on which the course is expected to be completed
 	
@@ -155,10 +156,10 @@ If there is more than one unfinished course in user's learning plan, all courses
 *N1.12 Notification of schedule assignment to the lecturer*
 *************************************************************
 
-This message is sent to lecturers when they are assigned a schedule in a course.
-Variables that can be used in the body of this e-mail message are:
+This message is sent to schedule instructors when they are assigned a schedule in a course.
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - lecturer's first name
+	* {{FirstName}} - schedule instructor's first name
 	* {{EducationName}} - name of the course
 	* {{StartDate}} - schedule start date
 	* {{StartTime}} - schedule start time
@@ -172,11 +173,13 @@ Variables that can be used in the body of this e-mail message are:
 ******************************************
 
 This message is sent to learners when they complete the course.
-Variables that can be used in the body of this e-mail message are:
+Variables that can be used in the body of this e-mail notification are:
 
-	* {{FirstName}} - recipient's first name
+	* {{FirstName}} - learner's first name
 	* {{EducationName}} - name of the course that was completed
 	* {{EducationFinishedDate}} - date on which the course was completed
+
+.. note:: This notification will have a certificate of completion attached to it if the course settings include certificate generation. Also, in the settings for this notification, toggle button **Send attachment** must be set to *ON*.
 
 View E-mail Notification History
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -185,5 +188,5 @@ View E-mail Notification History
 #. **E-mail notification** page is shown containing three sections: **E-mail service settings**, **E-mail notification settings** and **E-mail notification history** .
 #. Click on **E-mail notification history**.
 #. List of all E-mail notifications that have been sent is displayed below. 
-#. For each message sent the following data is displayed in the list: Name (type) of message, recepient's e-mail address, status and time when the message was sent.
-#. Clicking on *Details* icon in the **Actions** column enables you to see complete body of the message sent.
+#. For each notification sent the following data is displayed in the list: Name (type) of notification, recepient's e-mail address, status and time when the notification was sent.
+#. Clicking on *Details* icon in the **Actions** column enables you to see complete body of the notification sent.
