@@ -8,8 +8,9 @@ Application roles needed to manage business areas: :ref:`Education Process Admin
 About Business Areas
 ^^^^^^^^^^^^^^
 
-When creating a course or an exam, you need to choose business areas they cover. This will allow grouping of learning activities into categories so that users can browse the catalog by particular business area.
-Business areas can be organized hierarchicaly up to 3 levels. 
+This feature allows organizing courses from the catalog into a hierarchy of client-managed business areas. They will be used by your learners to filter the catalog according to the area of their current work or the area of interest. This will be especially useful as the number of courses in the catalog grows. Business areas are best used if the copy the business your organization does or hos it creates value. It is not the best practice to organize business areas by organization hierarchy, as this tends to change more frequently than the business or value creation chain.
+
+Business areas can be organized hierarchicaly, up to 3 levels. 
 
 .. note:: You must have at least one business area in your tenant. 
 
