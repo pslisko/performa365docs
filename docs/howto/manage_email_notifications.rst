@@ -126,7 +126,8 @@ Regions #scheduleChange - #endScheduleChange and #locationChange - #endlocationC
 *N1.8 Schedule reminder*
 ***************************
 
-This message is sent to learners to remind them of an upcoming schedule.
+.. note:: This notification is periodically sent to learners to remind them of an upcoming schedule. The notification will be sent 3 days before the schedule start date. It can be configured how frequently to send the notification: every day, on selected day of the week or on selected day of the month. 
+
 Variables that can be used in the body of this e-mail notification are:
 
 	* {{FirstName}} - learner's first name
