@@ -35,6 +35,7 @@ To learn how to do a specific task, such as use the catalog or work with courses
    :hidden:
    :caption: HOW TO
 
+   howto/customize_user_interface
    howto/manage_users
    howto/view_system_logs
    howto/work_with_email_notification
