@@ -4,6 +4,23 @@
 Product Updates
 ================
 
+Performa 365 v2.0.15
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Release date: 12/19/18
+
+New:
+
+* User interface customization
+  The appearance of the application can now be modified to better suit your company's visual identity. Customization includes changing the header color and adding the company's logo.
+   
+   
+Fixed:
+
+* Redirecting upon exam completion
+   After finishing an exam, the learner is now redirected to the activities page of the corresponding course.
+   
+
 Performa 365 v2.0.14
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
