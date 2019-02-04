@@ -13,7 +13,7 @@ About
 
 .. 
 
-**Catalog** shows all types of learning content currently available in the system. Currenty, catalog shows *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators. 
+**Catalog** shows all types of learning content currently available in the system. Currently, catalog shows *Courses* and *Exams* which are both listed in the submenu of the **Catalog** page. *Exams* (1) are only visible to exam administrators and exam creators. 
 
 .. 
 
