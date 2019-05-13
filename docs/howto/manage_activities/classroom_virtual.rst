@@ -122,9 +122,9 @@ Adding a Schedule to Outlook Calendar
 #. Choose a schedule you wish to enroll into by clicking on the corresponding tile.
 #. A panel with schedule details opens up below.
 #. Click on the button **Enroll**.
-#. You will be redirected back to the activities page. The activity you chose schedule for will now have a new button **Add to my Office 365 calendar**.
-#. A modal form opens up asking you to confirm the action.
-#. After clicking **Yes** on the modal form, the schedule will be added to your Office 365 calendar.
+#. You will be redirected back to the activities page. The activity you chose schedule for will now have a new button **Add to my Office 365 calendar**. Click on this button to add the schedule to your Outlook calendar.
+#. A pop-up window opens up asking you to confirm the action.
+#. After clicking **Yes** on the pop-up window, the schedule will be added to your Office 365 calendar.
 #. If there are any available schedules, the learner will be able to enroll into one.
 #. After the learner has enrolled to the schedule, a button to add the schedule to their calendar will be displayed in the activity tile.
 #. Click on the button to add the schedule to your calendar.
