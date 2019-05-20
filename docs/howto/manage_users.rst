@@ -37,6 +37,19 @@ This procedure applies to external users, typically external trainers for your o
 
 To add a new external user to Performa 365, create a new `guest user in your AAD <https://docs.microsoft.com/en-us/azure/active-directory/b2b/user-properties>`_. Guest user can provide their existing Microsoft account or you can create a new Microsoft account for them. Once this account is added to your AAD as guest user, just add this user to the user group in AAD which corresponds to the **Learner** role and potentically additional groups/roles.
 
+Add a Temporary User
+*****************************
+
+This procedure applies to external users, typically external attendees or instructors in trainings provided by your organization. The main difference is that these users will not be able to log into the system. You will add these users only for keeping track of course progress. This functionality will typically be used by HR department to quickly add external users without the need for involving IT department and asking them to add user to organization's active directory. 
+
+To add temporary user to the system follow these steps:
+
+#. Navigate to **Manage** > **Users**.
+#. Click on **Add** and fill in all required fields. 
+
+After adding, temporary user will appear in searches if you want to select this user to be added as an instructor in schedule.
+
+
 Update a User's Information
 ****************************
 
